@@ -6,4 +6,4 @@ Bilingual static website for the Bio-Inspired Robotics Laboratory.
 - Japanese: `jp.html`
 - GitHub Pages: deployed automatically from `main` by `.github/workflows/pages.yml`
 
-All core site assets are stored locally. Open `index.html` directly or serve the repository root with any static web server.
+All core site assets are stored locally, including the official BIRL logo at `assets/images/birl-logo.png`. Open `index.html` directly or serve the repository root with any static web server.
