@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>bioinspiredrobot</ShortName>
+	<Description>Search Bio-Inspired Robotics Laboratory - Department of Precision Engineering, University of Tokyo / Department of Engineering, University of Cambridge</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://birlab.org/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://birlab.org/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://birlab.org/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://birlab.org/osd.xml" />
+	<LongName>Bio-Inspired Robotics Laboratory</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://birlab.org/wp-content/uploads/2019/05/cropped-birl_no_textv2-2.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://birlab.org/wp-content/uploads/2019/05/cropped-birl_no_textv2-2.png?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>ai artificial-intelligence technology robotics robots</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://birlab.org</moz:SearchForm>
+</OpenSearchDescription>
