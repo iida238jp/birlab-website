@@ -148,15 +148,18 @@ figure, h1, h2, h3, p { margin-top: 0; }
 .news > .text-link { grid-column: 2; }
 
 .research-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; }
-.research-grid article { min-width: 0; }
+.research-grid article { min-width: 0; display: flex; flex-direction: column; }
 .image-link { display: block; margin-bottom: 1.35rem; overflow: hidden; background: var(--soft); }
 .image-link img { width: 100%; height: 330px; object-fit: cover; transition: transform .35s ease; }
 .research-grid article:nth-child(1) .image-link img { object-position: 50% 43%; }
+.research-grid article:nth-child(3) .image-link img { object-position: left center; }
 .image-link:hover img { transform: scale(1.015); }
 .item-number { margin-bottom: .5rem; color: var(--blue); font-size: .7rem; font-weight: 700; letter-spacing: .12em; }
 .research-grid h3 { margin-bottom: .65rem; font-size: 1.32rem; line-height: 1.25; }
 .research-grid h3 a { text-decoration: none; }
-.research-grid article > p:last-child { margin-bottom: 0; color: var(--muted); font-size: .96rem; }
+.research-grid .research-concept { margin-bottom: .55rem; color: var(--ink); font-size: .82rem; font-weight: 700; letter-spacing: .025em; }
+.research-grid .research-description { margin-bottom: 1rem; color: var(--muted); font-size: .96rem; }
+.research-grid .research-link { margin-top: auto; align-self: flex-start; }
 
 .idea-behind {
   display: grid;
@@ -330,6 +333,11 @@ figure, h1, h2, h3, p { margin-top: 0; }
   .birl-brand-logo { width: 110px; }
   .birl-brand-name { font-size: .82rem; }
   .birl-brand-affiliation { display: none; }
+}
+
+@media (max-width: 900px) {
+  .featured-research .research-grid { grid-template-columns: 1fr; gap: 2.5rem; }
+  .featured-research .image-link img { height: min(56vw, 430px); }
 }
 
 @media (max-width: 720px) {
