@@ -397,10 +397,39 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 <link rel="stylesheet" href="../language-switch.css" />
 <link rel="alternate" hreflang="en" href="index.html" />
 <link rel="alternate" hreflang="ja" href="jp.html" />
+<link rel="stylesheet" href="../refresh.css">
 </head>
 
-<body class="wp-singular page-template-default page page-id-28 custom-background wp-custom-logo wp-embed-responsive wp-theme-premiumradiate customizer-styles-applied group-blog no-sidebar-full-width jetpack-reblog-enabled has-site-logo custom-colors">
+<body class="research-refresh wp-singular page-template-default page page-id-28 custom-background wp-custom-logo wp-embed-responsive wp-theme-premiumradiate customizer-styles-applied group-blog no-sidebar-full-width jetpack-reblog-enabled has-site-logo custom-colors">
 <div id="page" class="hfeed site">
+	<a class="skip-link" href="#main">Skip to content</a>
+	<header class="refresh-header site-header">
+		<div class="header-inner">
+			<a class="brand" href="../" aria-label="BIRL home">
+				<img src="../../assets/images/birl-logo.png" width="1024" height="361" alt="BIRL">
+				<span class="brand-copy">
+					<strong>Bio-Inspired Robotics Laboratory</strong>
+					<small>The University of Tokyo × University of Cambridge</small>
+				</span>
+			</a>
+			<div class="header-actions">
+				<details class="site-menu">
+					<summary aria-label="Open navigation">Menu</summary>
+					<nav class="nav-links" aria-label="Primary navigation">
+						<a href="../">Home</a>
+						<a href="./" aria-current="page">Research</a>
+						<a href="../publications/">Publications</a>
+						<a href="../members/">Members</a>
+						<a href="../events/">News / Events</a>
+						<a href="../contact/">Contact</a>
+					</nav>
+				</details>
+				<nav class="language-switch" aria-label="Language selection">
+					<a href="index.html" aria-current="page">EN</a><span aria-hidden="true">/</span><a href="jp.html" lang="ja">日本語</a>
+				</nav>
+			</div>
+		</div>
+	</header>
 		<header id="masthead" class="site-header" role="banner">
 		<div class="header-wrap clearfix">
 			<div class="inner-wrap">
@@ -461,6 +490,72 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
+			<section class="research-intro" aria-labelledby="research-title">
+				<p class="eyebrow">Research</p>
+				<h1 id="research-title">How does intelligence emerge from physical interaction?</h1>
+				<div class="research-intro-copy">
+					<p class="research-deck">BIRL investigates how intelligent behaviour emerges through the interaction of bodies, materials, sensing, control and environments. We build bio-inspired robots both as useful machines and as experimental systems for understanding embodied intelligence.</p>
+					<p>Our current research spans soft and adaptive robotics, large-area tactile sensing, embodied computation, dexterous manipulation, locomotion and robotic experimentation, while extending a long-standing programme of research in morphology, body dynamics and physical interaction.</p>
+				</div>
+			</section>
+
+			<section class="current-research" aria-labelledby="current-research-title">
+				<div class="research-section-heading">
+					<p class="eyebrow">Current Research</p>
+					<h2 id="current-research-title">Robots as experimental systems.</h2>
+					<p>These interconnected directions ask what bodies contribute to sensing, computation, adaptation and goal-directed action.</p>
+				</div>
+				<div class="research-directions">
+					<article class="research-direction" id="eit-soft-sensing">
+						<figure><img src="../wp-content/uploads/2019/08/softsensor.jpg" width="362" height="312" loading="lazy" alt="Soft tactile sensor used in BIRL research"></figure>
+						<div><p class="direction-number">01 / Embodied perception</p><h3>EIT Soft Sensing &amp; Embodied Perception</h3><p class="research-question">How can the body itself become a sensor?</p><p>We use Electrical Impedance Tomography to read contact and deformation across soft robotic bodies. Rather than treating sensing as a collection of discrete components, this work investigates how morphology and perception can be integrated for adaptable tactile interaction.</p><p class="direction-links"><a href="https://www.eng.cam.ac.uk/aria-robotics" target="_blank" rel="noopener noreferrer">ARIA project overview ↗</a><a href="https://www.repository.cam.ac.uk/items/00dd537a-71be-4de4-8d83-978870d7c29a" target="_blank" rel="noopener noreferrer">Related publication ↗</a><a href="#SoftRobotSensing">Historical project ↓</a></p></div>
+					</article>
+					<article class="research-direction text-only" id="walking-fish">
+						<div><p class="direction-number">02 / Adaptive locomotion</p><h3>Walking Fish / Adaptive Locomotion</h3><p class="research-question">How do morphology, materials and environment shape movement?</p><p>Bio-inspired robotic models that can walk and swim allow researchers to test how mechanical features interact with motor patterns across different bodies, substrates and scales. The work connects robotics with biomechanics and evolutionary biology.</p><p class="direction-links"><a href="https://www.eng.cam.ac.uk/node/6609" target="_blank" rel="noopener noreferrer">Cambridge project overview ↗</a><a href="https://www.hfsp.org/awardees/awards?page=15" target="_blank" rel="noopener noreferrer">HFSP award record ↗</a><a href="#EfficientLocomotion">Locomotion archive ↓</a></p></div>
+					</article>
+					<article class="research-direction text-only" id="physical-reservoir-computing">
+						<div><p class="direction-number">03 / Embodied computation</p><h3>Physical Reservoir Computing &amp; Control</h3><p class="research-question">Can physical dynamics carry part of the computation needed for control?</p><p>This research studies how nonlinear dynamics in bodies and environments can serve as computational resources. By embedding control functionality in physical structure, it explores robust behaviour that does not depend entirely on a high-capacity external controller.</p><p class="direction-links"><a href="https://www.repository.cam.ac.uk/items/e555d079-a4cc-44ef-83b5-c65a671df161" target="_blank" rel="noopener noreferrer">Cambridge research record ↗</a><a href="#SoftRobotSensing">Related body-dynamics research ↓</a></p></div>
+					</article>
+					<article class="research-direction text-only" id="self-healing-robots">
+						<div><p class="direction-number">04 / Resilience</p><h3>Self-Healing Robots</h3><p class="research-question">How can robots recover function and adapt after damage?</p><p>Self-healing soft robots combine compliant materials, damage sensing and control so that a system can detect lost performance, repair structural damage, evaluate recovery and return to operation. The scientific focus is resilience as an embodied capability.</p><p class="direction-links"><a href="https://www.repository.cam.ac.uk/items/6d718809-037f-40b5-adc2-2e813e04a564" target="_blank" rel="noopener noreferrer">Related publication ↗</a><a href="https://cordis.europa.eu/project/id/828818" target="_blank" rel="noopener noreferrer">SHERO record ↗</a></p></div>
+					</article>
+					<article class="research-direction" id="soft-robot-manipulation">
+						<figure><img src="../wp-content/uploads/2021/01/robotic-hand-1.jpg" width="2000" height="1345" loading="lazy" alt="BIRL anthropomorphic robotic hand"></figure>
+						<div><p class="direction-number">05 / Dexterity</p><h3>Soft Robot Manipulation &amp; Dexterity</h3><p class="research-question">How can mechanics, sensing and interaction work together for robust dexterity?</p><p>Soft and underactuated hands turn passive mechanics, contact and tactile feedback into resources for adaptive manipulation. This work studies how hand morphology and control can support diverse, contact-rich tasks rather than a single pre-defined grasp.</p><p class="direction-links"><a href="https://doi.org/10.1126/scirobotics.ads6437" target="_blank" rel="noopener noreferrer">Open parametric hand paper ↗</a><a href="#SoftHand">Historical project ↓</a></p></div>
+					</article>
+					<article class="research-direction" id="robotic-experimentation">
+						<figure><img src="../wp-content/uploads/2020/04/fallingpaper.jpg" width="3648" height="4864" loading="lazy" alt="RoboScientist falling-paper experiment"></figure>
+						<div><p class="direction-number">06 / Scientific discovery</p><h3>Robotic Experimentation / RoboScientist</h3><p class="research-question">How can robots become experimental systems for scientific discovery?</p><p>RoboScientist platforms automate the repeated design, execution and interpretation of physical experiments. The falling-paper work demonstrates how large-scale robotic experimentation can reveal relationships between morphology, dynamics and behaviour.</p><p class="direction-links"><a href="https://www.nature.com/articles/s42256-019-0135-z" target="_blank" rel="noopener noreferrer">Nature Machine Intelligence ↗</a><a href="#FallingPaper">Project archive ↓</a></p></div>
+					</article>
+					<article class="research-direction" id="agri-food-robotics">
+						<figure><img src="../wp-content/uploads/2019/08/vegebotphoto.jpg" width="1596" height="1187" loading="lazy" alt="Vegebot harvesting lettuce"></figure>
+						<div><p class="direction-number">07 / Natural objects</p><h3>Agri-Food Robotics</h3><p class="research-question">How can robots handle variable, delicate and unfamiliar natural objects?</p><p>Vegebot, Foodly and related platforms connect perception with compliant, contact-rich manipulation in agriculture and food processing. They provide real-world tests of how robots can adapt to variation that conventional industrial automation avoids.</p><p class="direction-links"><a href="../foodly-project-birl/">Foodly project →</a><a href="#AgriFoodRobotics">Agri-food archive ↓</a><a href="https://agriforwards.eng.cam.ac.uk/" target="_blank" rel="noopener noreferrer">AgriFoRwArdS ↗</a></p></div>
+					</article>
+					<article class="research-direction" id="embodied-intelligence">
+						<figure><img src="../wp-content/uploads/2019/08/image-1.png" width="1881" height="898" loading="lazy" alt="BIRL bio-inspired robot research overview"></figure>
+						<div><p class="direction-number">08 / Foundational framework</p><h3>Embodied Intelligence</h3><p class="research-question">How does intelligence emerge through a body acting in an environment?</p><p>Embodied Intelligence provides the shared scientific framework for BIRL research. It examines how morphology, materials, sensing, control and environmental interaction together generate adaptive and goal-directed behaviour.</p><p class="direction-links"><a href="https://www.repository.cam.ac.uk/items/dbf44a56-bdcd-4e8a-98d9-e4b00a00022e" target="_blank" rel="noopener noreferrer">Foundations article ↗</a><a href="https://embodied-intelligence.org/" target="_blank" rel="noopener noreferrer">EI Conference ↗</a><a href="#previous-research-title">Research lineage ↓</a></p></div>
+					</article>
+				</div>
+			</section>
+
+			<section class="funded-programmes" aria-labelledby="funded-programmes-title">
+				<div class="research-section-heading">
+					<p class="eyebrow">Major Funded Research Programmes</p>
+					<h2 id="funded-programmes-title">Sustained questions, shared across disciplines.</h2>
+				</div>
+				<div class="programme-list">
+					<article><p class="programme-meta">ARIA / Robot Dexterity</p><h3>Scalable EIT tactile sensing for dexterous tool use</h3><p>Led by Professor Fumiya Iida, this project develops scalable, flexible EIT sensing for real-time closed-loop control in force-sensitive manipulation tasks. It forms part of ARIA’s Robot Dexterity programme.</p><p><a href="https://www.eng.cam.ac.uk/aria-robotics" target="_blank" rel="noopener noreferrer">Official Cambridge overview ↗</a> <a href="#eit-soft-sensing">Related research ↑</a></p></article>
+					<article><p class="programme-meta">HFSP / 2022–</p><h3>The Walking Fish</h3><p>This Human Frontier Science Program collaboration integrates biomechanics, energetics and robotics to study the water–land transition. Fumiya Iida is a co-principal investigator with Valentina Di Santo and Neil Shubin.</p><p><a href="https://www.hfsp.org/awardees/awards?page=15" target="_blank" rel="noopener noreferrer">Official HFSP record ↗</a> <a href="#walking-fish">Related research ↑</a></p></article>
+					<article><p class="programme-meta">EPSRC Centre for Doctoral Training</p><h3>AgriFoRwArdS</h3><p>The Centre for Doctoral Training in Agri-Food Robotics develops research talent across robotics, AI and agri-food systems. Fumiya Iida is listed as Cambridge Deputy Director.</p><p><a href="https://agriforwards.eng.cam.ac.uk/agriforwards-cdt-people/management-team-cambridge" target="_blank" rel="noopener noreferrer">Official management page ↗</a> <a href="#agri-food-robotics">Related research ↑</a></p></article>
+					<article><p class="programme-meta">EU H2020 / 2019–2024</p><h3>SHERO &amp; SMART</h3><p>SHERO developed autonomous self-healing soft robotic devices; the related SMART Innovative Training Network trained researchers across soft robotics and smart materials. The programmes connected sensing, actuation, structural health monitoring and functional recovery.</p><p><a href="https://cordis.europa.eu/project/id/828818" target="_blank" rel="noopener noreferrer">SHERO record ↗</a> <a href="https://cordis.europa.eu/project/id/860108" target="_blank" rel="noopener noreferrer">SMART record ↗</a> <a href="#self-healing-robots">Related research ↑</a></p></article>
+				</div>
+			</section>
+
+			<section class="previous-research-intro" aria-labelledby="previous-research-title">
+				<p class="eyebrow">Previous Research</p>
+				<h2 id="previous-research-title">A continuous history of bodies, dynamics and interaction.</h2>
+				<p>The complete original project archive follows. Project descriptions, researchers, images, publications, funding information, external links, videos and downloads are retained as part of BIRL’s historical research record.</p>
+			</section>
 			
 				
 <article id="post-28" class="post-28 page type-page status-publish hentry">
@@ -472,7 +567,7 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 
    	<div class="entry-content">
    		
-<h3 class="wp-block-heading">Research Overview&nbsp;</h3>
+<h3 class="wp-block-heading">Original Research Overview&nbsp;</h3>
 
 
 
@@ -484,7 +579,7 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 
 
 
-<h3 class="wp-block-heading">Ongoing Projects&nbsp;</h3>
+<h3 class="wp-block-heading">Projects in the Original Archive&nbsp;</h3>
 
 
 
@@ -610,7 +705,7 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 
 
 
-<h2 class="wp-block-heading">Previous Projects&nbsp;</h2>
+<h2 class="wp-block-heading">Earlier Projects&nbsp;</h2>
 
 
 
@@ -1027,6 +1122,25 @@ between human and machine can be possible through facial expression.<br>(Science
 	</footer><!-- #colophon -->
    <a href="#static-clone-disabled" id="scroll-up"><span class="genericon genericon-collapse"><span class="screen-reader-text">Scroll to Top</span></span></a>
 </div><!-- #page -->
+
+<footer class="refresh-footer site-footer">
+	<div class="footer-inner">
+		<div class="footer-identity">
+			<a href="../"><img src="../../assets/images/birl-logo.png" width="1024" height="361" alt="BIRL"></a>
+			<p><strong>Bio-Inspired Robotics Laboratory</strong><br>The University of Tokyo<br>University of Cambridge</p>
+		</div>
+		<nav class="footer-links" aria-label="Footer navigation">
+			<a href="./">Research</a>
+			<a href="../publications/">Publications</a>
+			<a href="../members/">Members</a>
+			<a href="../events/">News / Events</a>
+			<a href="../contact/">Contact</a>
+			<a href="https://www.youtube.com/channel/UCssbO6gQLdwC2T3ZNkAo1wA" target="_blank" rel="noopener noreferrer">YouTube ↗</a>
+			<a href="https://embodied-intelligence.org/" target="_blank" rel="noopener noreferrer">EI Conference ↗</a>
+		</nav>
+		<p class="copyright">© 2026 BIRL</p>
+	</div>
+</footer>
 
 <!--  -->
 <script type="speculationrules">
