@@ -44,31 +44,32 @@ figure, h1, h2, h3, p { margin-top: 0; }
 .header-refresh .refresh-header { display: block !important; }
 .header-refresh #masthead { display: none !important; }
 .header-inner {
-  width: min(calc(100% - 48px), var(--page));
-  min-height: 92px;
+  width: min(calc(100% - 40px), var(--page));
+  min-height: 76px;
   margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 1.25rem;
 }
 .birl-brand {
   min-width: 0;
   display: flex;
   align-items: center;
-  gap: 1.1rem;
+  gap: 15px;
   text-decoration: none;
 }
-.birl-brand-logo { width: 176px; flex: 0 0 auto; }
+.birl-brand-logo { width: 145px; height: auto; flex: 0 0 auto; }
 .birl-brand-text { min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
 .birl-brand-name { font-size: 1rem; font-weight: 600; letter-spacing: .015em; white-space: nowrap; }
-.birl-brand-affiliation { margin-top: .28rem; color: var(--muted); font-size: .69rem; white-space: nowrap; }
-.header-actions { display: flex; align-items: center; gap: 1.15rem; }
-.site-menu summary { display: none; }
-.nav-links { display: flex; align-items: center; gap: 1.25rem; }
+.birl-brand-affiliation { margin-top: .2rem; color: var(--muted); font-size: .69rem; font-weight: 400; white-space: nowrap; }
+.header-actions { min-width: 0; display: flex; align-items: center; gap: .9rem; }
+.site-menu { display: flex; align-items: center; }
+.menu-toggle { display: none; }
+.nav-links { display: flex; align-items: center; gap: 1.1rem; }
 .nav-links a, .language-switch a {
-  font-size: .73rem;
-  font-weight: 700;
+  font-size: .75rem;
+  font-weight: 600;
   letter-spacing: .07em;
   text-decoration: none;
   text-transform: uppercase;
@@ -258,39 +259,41 @@ figure, h1, h2, h3, p { margin-top: 0; }
 .footer-links a:hover { color: #83bdea; }
 .copyright { grid-column: 1 / -1; margin: 1rem 0 0; padding-top: 1.5rem; border-top: 1px solid #383c3f; color: #8e959a; font-size: .72rem; }
 
-@media (max-width: 1080px) {
-  .header-inner { gap: 1rem; }
-  .birl-brand { gap: .8rem; }
-  .birl-brand-logo { width: 160px; }
+@media (max-width: 1120px) {
+  .header-inner { width: min(calc(100% - 32px), var(--page)); gap: .9rem; }
+  .birl-brand { gap: 13px; }
+  .birl-brand-logo { width: 130px; }
   .birl-brand-affiliation { display: none; }
   .birl-brand-name { font-size: .88rem; }
-  .header-actions { gap: .85rem; }
-  .nav-links { gap: .65rem; }
-  .nav-links a { font-size: .68rem; }
+  .header-actions { gap: .75rem; }
+  .nav-links { gap: .75rem; }
+  .nav-links a { font-size: .7rem; }
   .hero { gap: 3rem; }
 }
 
-@media (max-width: 900px) {
-  .header-inner { min-height: 80px; }
-  .birl-brand-logo { width: 150px; }
-  .header-actions { gap: .8rem; }
+@media (max-width: 960px) {
+  .header-actions { gap: .7rem; }
   .site-menu { position: relative; order: 2; }
-  .site-menu summary {
-    min-width: 58px;
-    min-height: 42px;
+  .menu-toggle {
+    min-width: 54px;
+    min-height: 44px;
+    padding: .55rem .7rem;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid var(--line);
+    border-radius: 0;
+    color: var(--ink);
+    background: #fff;
     cursor: pointer;
     font-size: .7rem;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: .07em;
-    list-style: none;
     text-transform: uppercase;
   }
-  .site-menu summary::-webkit-details-marker { display: none; }
-  .site-menu:not([open]) .nav-links { display: none; }
+  .menu-toggle:hover,
+  .menu-toggle:focus-visible { color: var(--blue); border-color: var(--blue); }
+  .js .site-menu:not(.is-open) .nav-links { display: none; }
   .nav-links {
     position: absolute;
     top: calc(100% + 18px);
@@ -322,9 +325,11 @@ figure, h1, h2, h3, p { margin-top: 0; }
 }
 
 @media (max-width: 760px) {
-  .birl-brand { gap: .75rem; }
-  .birl-brand-logo { width: 138px; }
-  .birl-brand-name { font-size: .86rem; }
+  .header-inner { gap: .65rem; }
+  .birl-brand { gap: 10px; }
+  .birl-brand-logo { width: 110px; }
+  .birl-brand-name { font-size: .82rem; }
+  .birl-brand-affiliation { display: none; }
 }
 
 @media (max-width: 720px) {
@@ -358,10 +363,11 @@ figure, h1, h2, h3, p { margin-top: 0; }
 
 @media (max-width: 430px) {
   .header-inner { min-height: 74px; gap: .5rem; }
-  .birl-brand { gap: .55rem; }
-  .birl-brand-logo { width: 108px; }
+  .birl-brand { gap: 8px; }
+  .birl-brand-logo { width: 110px; }
   .birl-brand-name { max-width: 126px; font-size: .78rem; line-height: 1.18; white-space: normal; }
   .birl-brand-affiliation { display: none; }
+  .menu-toggle { min-width: 44px; padding-inline: .45rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

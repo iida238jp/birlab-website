@@ -319,6 +319,7 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 <link rel="alternate" hreflang="en" href="index.html" />
 <link rel="alternate" hreflang="ja" href="jp.html" />
 <link rel="stylesheet" href="../refresh.css">
+<script src="../header-nav.js" defer></script>
 </head>
 
 <body class="header-refresh wp-singular page-template-default page page-id-354 custom-background wp-custom-logo wp-embed-responsive wp-theme-premiumradiate customizer-styles-applied group-blog no-sidebar-full-width jetpack-reblog-enabled has-site-logo custom-colors">
@@ -326,16 +327,16 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 	<header class="refresh-header site-header">
 		<div class="header-inner">
 			<a class="birl-brand" href="../" aria-label="BIRL home">
-				<img class="birl-brand-logo" src="../assets/images/branding/birl-logo.png" width="1000" height="371" alt="BIRL logo">
+				<img class="birl-brand-logo" src="../wp-content/uploads/2021/01/cropped-cropped-birl_no_textv2-5.png" width="1024" height="361" alt="BIRL logo">
 				<span class="birl-brand-text">
 					<span class="birl-brand-name">Bio-Inspired Robotics Laboratory</span>
 					<span class="birl-brand-affiliation">The University of Tokyo × University of Cambridge</span>
 				</span>
 			</a>
 			<div class="header-actions">
-				<details class="site-menu">
-					<summary aria-label="Open navigation">Menu</summary>
-					<nav class="nav-links" aria-label="Primary navigation">
+				<div class="site-menu">
+					<button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation">Menu</button>
+					<nav id="primary-navigation" class="nav-links" aria-label="Primary navigation">
 						<a href="../">Home</a>
 						<a href="../research/">Research</a>
 						<a href="../publications/">Publications</a>
@@ -343,7 +344,7 @@ a.bx-prev, a.bx-next, a.bx-prev:hover, a.bx-next:hover { background-color: #0F70
 						<a href="./" aria-current="page">News / Events</a>
 						<a href="../contact/">Contact</a>
 					</nav>
-				</details>
+				</div>
 				<nav class="language-switch" aria-label="Language selection">
 					<a href="index.html" aria-current="page">EN</a><span aria-hidden="true">/</span><a href="jp.html" lang="ja">日本語</a>
 				</nav>
