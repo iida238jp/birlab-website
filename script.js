@@ -17,7 +17,8 @@
     if (!items.length) return;
     const query = (search?.value || '').trim().toLocaleLowerCase();
     const matching = items.filter((item) => {
-      const categoryMatch = activeFilter === 'all' || item.dataset.category === activeFilter;
+      const aliases = {embodied:['embodied','systems'], interaction:['interaction','systems']};
+      const categoryMatch = activeFilter === 'all' || item.dataset.category === activeFilter || (aliases[activeFilter] || []).includes(item.dataset.category);
       const haystack = `${item.dataset.search || ''} ${item.textContent}`.toLocaleLowerCase();
       return categoryMatch && (!query || haystack.includes(query));
     });
