@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build ten portable, fully rendered pages using only Python's standard library."""
+"""Build twelve portable, fully rendered pages using only Python's standard library."""
 import argparse
 import html
 import json
@@ -8,8 +8,8 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PAGES = ('home', 'research', 'people', 'publications', 'join')
-SLUGS = {'home': '', 'research': 'research', 'people': 'people', 'publications': 'publications', 'join': 'join'}
+PAGES = ('home', 'research', 'people', 'publications', 'community', 'join')
+SLUGS = {'home': '', 'research': 'research', 'people': 'people', 'publications': 'publications', 'community': 'community', 'join': 'join'}
 
 def read(name):
     return json.loads((ROOT / 'content' / (name + '.json')).read_text(encoding='utf-8'))
@@ -73,18 +73,19 @@ class Page:
     def closing(self):
         return '<section class="closing"><div class="wrap"><p class="eyebrow">BIRL / BIO-INSPIRED ROBOTICS LABORATORY</p><h2>{}</h2><p>{}</p>{}</div></section>'.format(self.t('closingTitle'), self.t('closingText'), self.button('join', 'closingLink'))
 
-    def community(self):
+    def community_photo(self):
         return '<figure class="community-photo">{}<figcaption>{}</figcaption></figure>'.format(self.image('community.jpg', self.words['communityCaption']), self.t('communityCaption'))
 
     def home(self):
         lines = self.words['heroLines']
         heading = '<br>'.join('<span{}>{}</span>'.format(' class="accent-word"' if i == 1 else '', esc(line)) for i, line in enumerate(lines))
-        hero = '<section class="hero"><div class="hero-copy"><p class="eyebrow">{}</p><h1>{}</h1><p class="hero-intro">{}</p><div class="hero-actions">{}{}</div><p class="hero-affiliation">{}</p></div><figure class="hero-figure">{}<figcaption><span>01 / BIRL IN MOTION</span><p>{}</p></figcaption></figure></section>'.format(self.t('heroLabel'), heading, self.t('heroIntro'), self.button('research','explore'), self.link(self.url('people'),self.t('meet')), self.t('affiliation'), self.image('robotic-hand.jpg', RESEARCH['projects'][0]['alt'][self.lang], eager=True), self.t('heroCaption'))
+        hero = '<section class="hero"><div class="hero-copy"><p class="eyebrow">{}</p><h1>{}</h1><p class="hero-mission">{}</p><p class="hero-intro">{}</p><div class="hero-actions">{}{}</div><p class="hero-affiliation">{}</p></div><figure class="hero-figure">{}<figcaption><span>01 / BIRL IN MOTION</span><p>{}</p></figcaption></figure></section>'.format(self.t('heroLabel'), heading, self.t('heroMission'), self.t('heroIntro'), self.button('research','explore'), self.link(self.url('people'),self.t('meet')), self.t('affiliation'), self.image('robotic-hand.jpg', RESEARCH['projects'][0]['alt'][self.lang], eager=True), self.t('heroCaption'))
         vision = '<section class="section wrap vision"><p class="eyebrow">{}</p><div><h2>{}</h2><p class="lead">{}</p>{}</div></section>'.format(self.t('visionLabel'), self.t('visionTitle'), self.t('visionText'), self.link(self.url('research')+'#embodied-intelligence', self.t('visionLink')))
         themes = '<section class="section section-tint"><div class="wrap">{}{}</div></section>'.format(self.section_head('themeLabel', 'themeTitle'), self.themes())
         projects = '<section class="section wrap">{}<div class="project-tiles">{}</div></section>'.format(self.section_head('selectedLabel','selectedTitle', self.link(self.url('research'), self.t('allResearch'))), ''.join(self.project(p,True) for p in RESEARCH['projects'][:2]))
         news = '<section class="section wrap news">{}<article><time datetime="2025-10-01">{}</time><h3>{}</h3><p>{}</p>{}</article></section>'.format(self.section_head('newsLabel','newsTitle'),self.t('newsDate'),self.t('newsHeadline'),self.t('newsText'),self.link('https://birlab.org/news/',self.t('newsLink')))
-        return hero + vision + themes + projects + news + self.closing()
+        menu = '<nav class="homepage-menu" aria-label="{}">{}</nav>'.format('Explore BIRL' if self.lang=='en' else 'BIRLの各ページ', ''.join('<a href="{}"><span class="menu-number">0{}</span><span>{}</span><span aria-hidden="true">↗</span></a>'.format(self.url(p), i, esc(self.words['nav'][i])) for i,p in enumerate(PAGES) if p!='home'))
+        return hero + menu + vision + themes + projects + news + self.closing()
 
     def research(self):
         return self.intro('researchLabel','researchTitle','researchIntro') + '<section class="section wrap vision"><p class="eyebrow">{}</p><div><h2>{}</h2><p class="lead">{}</p></div></section><section class="section-tint section"><div class="wrap">{}</div></section><section class="section wrap">{}<p class="section-note">{}</p><div class="projects">{}</div></section>'.format(self.t('questionLabel'),self.t('questionTitle'),self.t('questionText'),self.themes(),self.section_head('projectsLabel','projectsTitle'),self.t('projectsNote'),''.join(self.project(p) for p in RESEARCH['projects'])) + self.closing()
@@ -101,8 +102,12 @@ class Page:
                     groups.append('<div class="people-group"><h4>{}</h4><ul>{}</ul></div>'.format(esc(translations[self.lang]),''.join('<li>'+esc(m['name'])+'</li>' for m in members)))
             locations.append('<article class="location-list"><p class="eyebrow">{}</p><h3>{}</h3>{}</article>'.format('JP / TOKYO' if loc=='tokyo' else 'UK / CAMBRIDGE',self.t(loc),''.join(groups)))
         directory = '<section class="section section-tint"><div class="wrap">{}<p class="section-note">{}</p><div class="directory">{}</div></div></section>'.format(self.section_head('directoryLabel','directoryTitle'),self.t('directoryNote'),''.join(locations))
-        history = '<section class="section wrap">{}<div class="history-copy"><h2>{}</h2><div><p>{}</p>{}</div></div></section>'.format(self.community(),self.t('alumniTitle'),self.t('alumniText'),self.link('https://birlab.org/members/',self.t('alumniLink')))
-        return self.intro('peopleLabel','peopleTitle','peopleIntro') + lead + directory + history + self.closing()
+        return self.intro('peopleLabel','peopleTitle','peopleIntro') + lead + directory + '<section class="section wrap"><h2>{}</h2><p class="lead">{}</p>{}</section>'.format(self.t('communityTitle'),self.t('communityText'),self.link(self.url('community'),self.t('communityLink'))) + self.closing()
+
+    def community(self):
+        history = '<section class="section wrap">{}<div class="history-copy"><h2>{}</h2><div><p>{}</p>{}</div></div></section>'.format(self.community_photo(), self.t('alumniTitle'), self.t('alumniText'), self.link('https://birlab.org/members/', self.t('alumniLink')))
+        news = '<section class="section wrap news">{}<article><time datetime="2025-10-01">{}</time><h3>{}</h3><p>{}</p>{}</article></section>'.format(self.section_head('newsLabel','newsTitle'),self.t('newsDate'),self.t('newsHeadline'),self.t('newsText'),self.link('https://birlab.org/news/',self.t('newsLink')))
+        return self.intro('communityLabel','communityTitle','communityText') + history + news + self.closing()
 
     def publications(self):
         records = PUBLICATIONS['records']
@@ -127,12 +132,12 @@ class Page:
 
     def render(self):
         other = 'ja' if self.lang=='en' else 'en'
-        nav = ''.join('<a href="{}" {}>{}</a>'.format(self.url(p),'aria-current="page"' if p==self.page else '',esc(self.words['nav'][i])) for i,p in enumerate(PAGES))
+        nav = ''.join('<a href="{}" {}>{}</a>'.format(self.url(p),'aria-current="page"' if p==self.page else '',esc(self.words['nav'][i])) for i,p in enumerate(PAGES) if p!='home')
         language = '<a class="language-switch" href="{}" lang="{}" hreflang="{}" aria-label="{}">{}</a>'.format(self.url(self.page,other),other,other,self.t('languageLabel'),'日本語' if other=='ja' else 'EN')
-        header = '<a class="skip-link" href="#main">{}</a><header class="site-header"><div class="header-inner"><a class="brand" href="{}" aria-label="BIRL — {}">{}<span>{}</span></a><button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav" data-open="{}" data-close="{}">{}</button><nav id="primary-nav" aria-label="{}">{}</nav>{}</div></header>'.format(self.t('skip'),self.url('home'),esc(self.words['nav'][0]),self.image('birl-logo.png','BIRL'),self.t('tagline'),self.t('menu'),self.t('close'),self.t('menu'),'Primary navigation' if self.lang=='en' else 'メインナビゲーション',nav,language)
+        header = '<a class="skip-link" href="#main">{}</a><header class="site-header"><div class="header-inner"><a class="brand" href="{}" aria-label="BIRL — {}">{}<span>{}</span></a><nav id="primary-nav" aria-label="{}">{}</nav>{}</div></header>'.format(self.t('skip'),self.url('home'),esc(self.words['nav'][0]),self.image('birl-logo.png','BIRL'),self.t('tagline'),'Primary navigation' if self.lang=='en' else 'メインナビゲーション',nav,language)
         footer = '<footer class="site-footer"><div class="wrap"><div class="footer-top"><div><a class="footer-brand" href="{}">BIRL</a><p>{}</p><p>{}</p></div><div><p class="eyebrow">{}</p>{}{}{}</div></div><div class="footer-bottom"><span>© {} BIRL · {}</span><span>{}</span></div></div></footer>'.format(self.url('home'),self.t('footerText'),self.t('affiliation'),self.t('archiveLabel'),self.link('https://birlab.org/',self.t('archive')),self.link('https://birlab.org/resources/',self.t('resources')),self.link('https://www.youtube.com/channel/UCssbO6gQLdwC2T3ZNkAo1wA',self.t('youtube')),PUBLICATIONS['checked'][:4],self.t('copyright'),self.t('tagline'))
         title=(self.words['heroTitle'] if self.page=='home' else self.words['nav'][PAGES.index(self.page)])+' | BIRL'
-        desc=self.words[{'home':'heroIntro','research':'researchIntro','people':'peopleIntro','publications':'publicationsIntro','join':'joinIntro'}[self.page]]
+        desc=self.words[{'home':'heroIntro','research':'researchIntro','people':'peopleIntro','publications':'publicationsIntro','community':'communityText','join':'joinIntro'}[self.page]]
         return '<!doctype html>\n<html lang="{}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="{}"><meta name="color-scheme" content="light"><meta name="theme-color" content="#173c34"><title>{}</title><link rel="icon" href="{}" type="image/svg+xml"><link rel="stylesheet" href="{}"><link rel="alternate" hreflang="en" href="{}"><link rel="alternate" hreflang="ja" href="{}"><script src="{}" defer></script></head><body class="page-{}">{}<main id="main">{}</main>{}</body></html>\n'.format(self.lang,esc(desc),esc(title),self.path('assets/favicon.svg'),self.path('style.css'),self.url(self.page,'en'),self.url(self.page,'ja'),self.path('site.js'),self.page,header,getattr(self,self.page)(),footer)
 
 if __name__=='__main__':
@@ -153,4 +158,4 @@ if __name__=='__main__':
     for name in ('style.css','site.js'):
         shutil.copy2(ROOT/'static'/name,output/name)
     (output/'.nojekyll').touch()
-    print('Built 10 pages in',output)
+    print('Built 12 pages in',output)

@@ -44,7 +44,7 @@ site = json.loads((ROOT/'content/site.json').read_text())
 assert set(site) == {'en','ja'}
 assert set(site['en']) == set(site['ja']), 'English/Japanese key mismatch'
 for language, words in site.items():
-    assert len(words['nav']) == 5
+    assert len(words['nav']) == 6
     assert all(value for value in words.values()), 'Empty translated string'
 research = json.loads((ROOT/'content/research.json').read_text())
 for record in research['themes'] + research['projects']:
@@ -56,11 +56,11 @@ for p in pubs:
     assert p['year'] == '' or re.fullmatch(r'\d{4}(?:-\d{4})?',p['year'])
 
 files = sorted(OUT.rglob('*.html'))
-assert len(files) == 10, 'Expected exactly 10 generated pages'
+assert len(files) == 12, 'Expected exactly 12 generated pages'
 documents = {}
 for path in files:
     d = Document(); d.feed(path.read_text(encoding='utf-8')); documents[path.resolve()] = d
-    if (d.h1,d.main,d.current,d.nav_count) != (1,1,1,5): errors.append(str(path.relative_to(OUT))+': invalid heading, main or five-page navigation')
+    if (d.h1,d.main,d.current,d.nav_count) != (1,1,0 if path.parent in (OUT,OUT/'ja') else 1,5): errors.append(str(path.relative_to(OUT))+': invalid heading, main or five-menu navigation')
     if d.language != ('ja' if path.relative_to(OUT).parts[0]=='ja' else 'en'): errors.append('Incorrect document language')
     if 'publications' in path.parts and d.publications != len(pubs): errors.append('Bibliography incomplete')
     if not d.lang_switch: errors.append('Missing language switch')
@@ -83,4 +83,4 @@ for path in files:
     if 'info@birlab.org' in path.read_text(): errors.append('Unverified placeholder email')
 if errors:
     print('\n'.join(errors)); sys.exit(1)
-print('PASS: 10 pages; five-page navigation; reciprocal EN/JA links; '+str(checked)+' local references; '+str(len(pubs))+' bibliography entries per language; translated content contracts.')
+print('PASS: 12 pages; five-menu navigation; reciprocal EN/JA links; '+str(checked)+' local references; '+str(len(pubs))+' bibliography entries per language; translated content contracts.')

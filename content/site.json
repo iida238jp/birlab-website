@@ -1,14 +1,25 @@
 {
   "en": {
-    "nav": ["Home", "Research", "People", "Publications", "Join & Contact"],
+    "nav": [
+      "Home",
+      "Research",
+      "People",
+      "Publication",
+      "Community",
+      "Join"
+    ],
     "tagline": "Bio-Inspired Robotics Laboratory",
     "skip": "Skip to content",
     "menu": "Menu",
     "close": "Close menu",
     "affiliation": "The University of Tokyo / University of Cambridge",
     "heroLabel": "Robotics · Biology · Artificial intelligence",
-    "heroTitle": "Understanding Intelligence Through the Body",
-    "heroLines": ["Understanding", "Intelligence", "Through the Body."],
+    "heroTitle": "Bio-Inspired Robotics Laboratory",
+    "heroLines": [
+      "Bio-Inspired",
+      "Robotics",
+      "Laboratory"
+    ],
     "heroIntro": "Intelligence takes shape in the physical world. We explore how bodies, materials, and environments work together to create adaptive behaviour.",
     "explore": "Explore our research",
     "meet": "Meet the people",
@@ -73,7 +84,7 @@
     "paper": "Paper link",
     "originalBibliography": "Original bibliography",
     "undated": "Year not specified",
-    "joinLabel": "04 / Join & Contact",
+    "joinLabel": "05 / Join & Contact",
     "joinTitle": "Bring your questions to life.",
     "joinIntro": "Interested in understanding intelligence through the body? Connect with BIRL about study, research, or collaboration.",
     "studentsTitle": "Students & researchers",
@@ -100,18 +111,32 @@
     "youtube": "BIRL on YouTube",
     "archiveLabel": "Explore the archive",
     "languageLabel": "Read this page in Japanese",
-    "copyright": "Bio-Inspired Robotics Laboratory"
+    "copyright": "Bio-Inspired Robotics Laboratory",
+    "heroMission": "Understanding Intelligence Through the Body",
+    "communityLabel": "04 / Community",
+    "communityLink": "Explore our community"
   },
   "ja": {
-    "nav": ["ホーム", "研究", "メンバー", "研究業績", "参加・お問い合わせ"],
+    "nav": [
+      "ホーム",
+      "研究",
+      "メンバー",
+      "研究業績",
+      "コミュニティ",
+      "参加・お問い合わせ"
+    ],
     "tagline": "バイオインスパイアード・ロボティクス研究室",
     "skip": "本文へ移動",
     "menu": "メニュー",
     "close": "メニューを閉じる",
     "affiliation": "東京大学 / ケンブリッジ大学",
     "heroLabel": "ロボティクス · 生物学 · 人工知能",
-    "heroTitle": "身体を通して知能を理解する",
-    "heroLines": ["身体を通して", "知能を", "理解する。"],
+    "heroTitle": "Bio-Inspired Robotics Laboratory",
+    "heroLines": [
+      "Bio-Inspired",
+      "Robotics",
+      "Laboratory"
+    ],
     "heroIntro": "知能は、物理世界との関わりの中で形づくられます。身体・素材・環境の相互作用が、どのように適応的な行動を生み出すのかを探究します。",
     "explore": "研究を見る",
     "meet": "メンバーを見る",
@@ -176,7 +201,7 @@
     "paper": "論文リンク",
     "originalBibliography": "元の文献一覧",
     "undated": "年の記載なし",
-    "joinLabel": "04 / 参加・お問い合わせ",
+    "joinLabel": "05 / 参加・お問い合わせ",
     "joinTitle": "あなたの問いを、動き出させよう。",
     "joinIntro": "身体を通して知能を理解する研究に関心はありますか。進学、研究、共同研究について、BIRLにお問い合わせください。",
     "studentsTitle": "学生・研究者の方へ",
@@ -203,6 +228,9 @@
     "youtube": "BIRLのYouTube",
     "archiveLabel": "アーカイブを見る",
     "languageLabel": "Read this page in English",
-    "copyright": "Bio-Inspired Robotics Laboratory"
+    "copyright": "Bio-Inspired Robotics Laboratory",
+    "heroMission": "身体を通して知能を理解する",
+    "communityLabel": "04 / コミュニティ",
+    "communityLink": "コミュニティを見る"
   }
 }

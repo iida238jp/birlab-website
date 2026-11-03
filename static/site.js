@@ -1,24 +1,6 @@
 /* Progressive enhancements. All page content and language links work without JS. */
 'use strict';
 document.documentElement.classList.add('js');
-const menuButton = document.querySelector('.menu-toggle');
-const navigation = document.querySelector('#primary-nav');
-function setMenu(open) {
-  navigation.classList.toggle('is-open', open);
-  menuButton.setAttribute('aria-expanded', String(open));
-  menuButton.textContent = open ? menuButton.dataset.close : menuButton.dataset.open;
-}
-menuButton?.addEventListener('click', () => setMenu(menuButton.getAttribute('aria-expanded') !== 'true'));
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape' && menuButton?.getAttribute('aria-expanded') === 'true') {
-    setMenu(false);
-    menuButton.focus();
-  }
-});
-navigation?.addEventListener('click', event => {
-  if (event.target.closest('a')) setMenu(false);
-});
-
 const filters = document.querySelector('#publication-filters');
 if (filters) {
   const search = document.querySelector('#publication-search');

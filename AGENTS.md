@@ -3,7 +3,7 @@
 - Work on a review branch. Do not deploy, merge, edit DNS, or overwrite the live WordPress site without the user's explicit instruction.
 - Read `docs/REDESIGN.md` and `docs/UPDATING.md` before content changes.
 - Treat `content/*.json` as the source of truth. Keep English and Japanese fields paired. Do not edit generated `dist/` files directly.
-- Preserve exactly five primary pages in each language and reciprocal language links.
+- Preserve the five primary menu destinations (Research, People, Publication, Community, Join), the separate homepage, and reciprocal language links.
 - Verify people, affiliations, dates, contact information, publication details, and opportunities against supplied evidence or primary sources. Keep source URLs. Never invent vacancies, funding, metrics, paper links, or project status.
 - Preserve existing image credits and provenance. Do not substitute generated illustrations for documentary research images without a request.
 - Keep the site static and dependency-free unless a real requirement calls for a change. Never add credentials, analytics, submission endpoints, or paid services implicitly.
