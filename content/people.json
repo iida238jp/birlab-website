@@ -1,0 +1,29 @@
+{
+  "source": "https://birlab.org/members/",
+  "checked": "2026-11-03",
+  "pi": {"name":"Fumiya Iida", "profile":"https://www.eng.cam.ac.uk/profiles/fi224", "tokyoEmail":"fumiya-iida@g.ecc.u-tokyo.ac.jp", "cambridgeEmail":"fi224@cam.ac.uk"},
+  "roles": {
+    "support": {"en":"Support staff", "ja":"サポートスタッフ"},
+    "researcher": {"en":"Research associates / assistants", "ja":"研究員・研究補助員"},
+    "student": {"en":"Student researchers", "ja":"学生研究者"},
+    "phd": {"en":"PhD students", "ja":"博士課程学生"},
+    "visitor": {"en":"Academic visitors", "ja":"訪問研究者"}
+  },
+  "members": [
+    {"name":"Miho Fukuzaki", "location":"tokyo", "role":"support"},
+    {"name":"Dr. Shao Qi", "location":"tokyo", "role":"researcher"},
+    {"name":"Yuchen Zhou", "location":"tokyo", "role":"student"},
+    {"name":"Kazufumi (Kaz) Yamamoto", "location":"tokyo", "role":"student"},
+    {"name":"Kalina Peneva", "location":"tokyo", "role":"student"},
+    {"name":"Shreya Patki", "location":"tokyo", "role":"student"},
+    {"name":"Perla Maiolino", "location":"tokyo", "role":"visitor"},
+    {"name":"Veronica Egorova", "location":"cambridge", "role":"support"},
+    {"name":"Narges Khadem Hosseini", "location":"cambridge", "role":"support"},
+    {"name":"Dr. Xiang Wang", "location":"cambridge", "role":"researcher"},
+    {"name":"Dr. David Hardman", "location":"cambridge", "role":"researcher"},
+    {"name":"Dr. Saba Firouznia", "location":"cambridge", "role":"researcher"},
+    {"name":"Richard Marques Monteiro", "location":"cambridge", "role":"phd"},
+    {"name":"Xiaoxian (Amanda) Xu", "location":"cambridge", "role":"phd"},
+    {"name":"Catherine Merchant", "location":"cambridge", "role":"phd"}
+  ]
+}

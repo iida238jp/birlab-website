@@ -1,0 +1,144 @@
+{
+  "source": "https://birlab.org/research/",
+  "themes": [
+    {
+      "id": "embodied-intelligence",
+      "number": "01",
+      "en": {
+        "title": "Embodied intelligence",
+        "question": "How does a body contribute to intelligence?",
+        "text": "We study how physical form and interaction with the environment support adaptive behaviour, learning, and computation."
+      },
+      "ja": {
+        "title": "身体性知能",
+        "question": "身体は知能にどう関わるのか。",
+        "text": "身体の形態と環境との相互作用が、適応的な行動、学習、計算をどのように支えるかを研究します。"
+      }
+    },
+    {
+      "id": "soft-robotics",
+      "number": "02",
+      "en": {
+        "title": "Soft robotics & sensing",
+        "question": "What if materials could help us sense and adapt?",
+        "text": "We explore compliant bodies, functional materials, and soft sensors that bring perception and mechanics closer together."
+      },
+      "ja": {
+        "title": "ソフトロボティクスとセンシング",
+        "question": "素材が知覚や適応を助けるとしたら。",
+        "text": "柔軟な身体、機能性素材、ソフトセンサを通して、知覚と力学を結びつける方法を探ります。"
+      }
+    },
+    {
+      "id": "adaptive-machines",
+      "number": "03",
+      "en": {
+        "title": "Adaptive machines",
+        "question": "How can robots work with a changing world?",
+        "text": "From dexterous manipulation to locomotion and robotic experimentation, we investigate machines that make use of their physical dynamics."
+      },
+      "ja": {
+        "title": "適応する機械",
+        "question": "変化する世界と、どう関わるのか。",
+        "text": "巧みな操作、移動、ロボットによる実験などを通して、自らの身体のダイナミクスを生かす機械を研究します。"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "id": "robotic-hand",
+      "image": "robotic-hand.jpg",
+      "alt": {
+        "en": "A bio-inspired robotic hand touching piano keys",
+        "ja": "ピアノの鍵盤に触れる、生物に着想を得たロボットハンド"
+      },
+      "en": {
+        "tag": "Morphology & manipulation",
+        "title": "Dexterity begins with the body.",
+        "text": "Bio-inspired musculoskeletal hands let us investigate the connection between mechanical design and skilled manipulation. The body’s dynamics become part of the solution."
+      },
+      "ja": {
+        "tag": "形態とマニピュレーション",
+        "title": "巧みさは、身体から。",
+        "text": "生物に着想を得た筋骨格系のロボットハンドを通して、機械設計と巧みな操作の関係を調べます。身体のダイナミクスそのものを、課題を解く仕組みとして捉えます。"
+      },
+      "source": "https://birlab.org/research/"
+    },
+    {
+      "id": "robot-scientist",
+      "image": "falling-paper.jpg",
+      "alt": {
+        "en": "Falling-paper apparatus used in robotic physical experimentation",
+        "ja": "ロボットによる物理実験に用いる、落下する紙の実験装置"
+      },
+      "en": {
+        "tag": "Robotic experimentation",
+        "title": "Robots as experimental scientists.",
+        "text": "The RoboScientist falling-paper experiment uses automated physical trials to explore complex behaviour. Building and testing in the real world opens another route to discovery."
+      },
+      "ja": {
+        "tag": "ロボットによる実験",
+        "title": "ロボットを、実験科学者に。",
+        "text": "RoboScientistの落下する紙の実験では、物理実験を自動化し、複雑な振る舞いを調べます。現実世界で試し、確かめることが、新たな発見の道を開きます。"
+      },
+      "source": "https://birlab.org/research/"
+    },
+    {
+      "id": "soft-sensing",
+      "image": "soft-sensor.jpg",
+      "alt": {
+        "en": "Soft sensor research apparatus from the BIRL archive",
+        "ja": "BIRLアーカイブに掲載されたソフトセンサの研究装置"
+      },
+      "en": {
+        "tag": "Materials & perception",
+        "title": "Sensing through a softer body.",
+        "text": "Deformable robots need ways to sense their own changing shape and contact with the world. We explore functional materials and sensing methods for soft robot control."
+      },
+      "ja": {
+        "tag": "素材と知覚",
+        "title": "柔らかな身体で、感じる。",
+        "text": "変形するロボットには、自らの形状の変化や環境との接触を捉える仕組みが必要です。ソフトロボットの制御に向けて、機能性素材とセンシング手法を探究します。"
+      },
+      "source": "https://birlab.org/research/"
+    },
+    {
+      "id": "agri-food",
+      "image": "vegebot.jpg",
+      "alt": {
+        "en": "Vegebot, a research robot in a field of lettuce",
+        "ja": "レタス畑で研究に用いられるロボット、Vegebot"
+      },
+      "en": {
+        "tag": "Robotics in the world",
+        "title": "Working with biological variation.",
+        "text": "Agri-food robotics brings perception and manipulation into unstructured environments. The Vegebot project explores the challenges of handling crops whose shapes and surroundings vary."
+      },
+      "ja": {
+        "tag": "実世界のロボティクス",
+        "title": "生物のばらつきと、向き合う。",
+        "text": "農業・食品分野のロボティクスは、知覚と操作を不規則な環境へと広げます。Vegebotでは、形や周囲の状況が異なる作物を扱う課題を探究しています。"
+      },
+      "source": "https://birlab.org/research/"
+    },
+    {
+      "id": "robot-evolution",
+      "image": "robot-evolution.jpg",
+      "alt": {
+        "en": "Robot assembly apparatus used in physical robot evolution experiments",
+        "ja": "ロボットの身体進化の実験で用いられる組み立て装置"
+      },
+      "en": {
+        "tag": "Design & adaptation",
+        "title": "When robots can change their bodies.",
+        "text": "Physical robot evolution explores autonomous design and fabrication. It asks how changing a robot’s mechanical body could improve its behaviour in a complex environment."
+      },
+      "ja": {
+        "tag": "設計と適応",
+        "title": "ロボットが、身体を変えるとき。",
+        "text": "ロボットの身体進化では、自律的な設計と製作を研究します。機械的な身体を変えることで、複雑な環境での行動をどのように改善できるかを考えます。"
+      },
+      "source": "https://birlab.org/research/"
+    }
+  ]
+}

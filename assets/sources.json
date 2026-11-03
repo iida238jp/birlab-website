@@ -1,0 +1,65 @@
+[
+  {
+    "file": "robotic-hand.jpg",
+    "source": "https://birlab.org/wp-content/uploads/2021/01/robotic-hand-1.jpg?w=1600",
+    "description": "Research image: robotic hand",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 1600,
+    "height": 1076
+  },
+  {
+    "file": "falling-paper.jpg",
+    "source": "https://birlab.org/wp-content/uploads/2020/04/fallingpaper.jpg?w=900",
+    "description": "RoboScientist falling-paper experiment",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 899,
+    "height": 1200
+  },
+  {
+    "file": "vegebot.jpg",
+    "source": "https://birlab.org/wp-content/uploads/2019/08/vegebotphoto.jpg?w=1000",
+    "description": "Vegebot research image",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 1000,
+    "height": 743
+  },
+  {
+    "file": "soft-sensor.jpg",
+    "source": "https://birlab.org/wp-content/uploads/2019/08/softsensor.jpg",
+    "description": "Soft robot sensing research image",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 362,
+    "height": 312
+  },
+  {
+    "file": "robot-evolution.jpg",
+    "source": "https://birlab.org/wp-content/uploads/2019/08/mother_robot.jpg?w=1000",
+    "description": "Physical robot evolution research image",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 1000,
+    "height": 666
+  },
+  {
+    "file": "community.jpg",
+    "source": "https://birlab.org/wp-content/uploads/2023/12/img_8549-copy.jpg?w=1600",
+    "description": "BIRL reunion workshop, UCL London, December 2023",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 1600,
+    "height": 700
+  },
+  {
+    "file": "birl-logo.png",
+    "source": "https://birlab.org/wp-content/uploads/2021/01/cropped-cropped-birl_no_textv2-5.png?w=340",
+    "description": "Existing BIRL logo",
+    "retrieved": "2026-11-03",
+    "credit": "Bio-Inspired Robotics Laboratory; retained from the existing website. Underlying rights remain with the original creators.",
+    "width": 338,
+    "height": 119
+  }
+]
