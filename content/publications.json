@@ -1,0 +1,3574 @@
+{
+  "source": "https://birlab.org/publications/",
+  "checked": "2026-11-03",
+  "records": [
+    {
+      "id": "publication-1",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Trehan, D., Nazari, K., Wang, H., Hughes, H., Iida, F., Thuruthel, TG., EIT-enabled Universal Jamming Gripper for Intrinsic force perception and tactile localization, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-2",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Zhang, Y., Xie, Y., Hughes, J., Iida, F., The co-evolutionary substrate: Converging matter and information for robotic dexterity, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-3",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Xu. X., Hardman, D., Iida, F., Economy of touch : Task-driven information selection in tactile EIT-based robotic sensing, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-4",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Gailey, D., Chu, KF., Iida, F. Pedagogically inspired agent-environment co-adaptation: A case study on ethical autonomous driving, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-5",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Merchant, CEM., Xu, X., Hardman, D., Iida, F., Non-destructive classification of root vegetable dimensions and varieties based on Electrical Impedance Tomography, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-6",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Xie, Y., Ishida, M., Hosseini, N., Iida, F., Hybrid Sim2Real optimization of a single-DoF helix-driven walking fish robot, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-7",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Sirithunge, C., Faris, O., Zhang, Y., Chu, KF., Iida, F., Forni, F., Wang, H., Information-theoretic scalar indicators across sensorimotor channels for spatial coordination in human-robot teams, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-8",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Zhang, Y., Iida, F., Forni, F., Periodic robust robotic rock chop via virtual model control, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-9",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Nadipineni, S., Sirithunge, C., Xie, Y., Iida, F., Lalitharatne TD., Auditory-tactile congruence for synthesis of pain expressions in RoboPatients, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-10",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Xie, Y., Li, S., Pan, Y., Lu, L., Iida, F. A digital twin-based approach for dynamic traffic-aware routing and charging of electric vehicles, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-11",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Choudhry, A., Chu, KF., Xie, Y., Sirithunge, C., Iida, F. Mitigating bias in moral utility functions for autonomous vehicles using Thurstone-Mosteller learning, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-12",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Yuan, M., Wang, H., Chu, KF., Iida, F., Li, B., Zeng, W., Real-time dynamic robot-assisted hand-object interaction via motion primitives, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-13",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Xie, Y., Chu, KF., Lam, AYS., Iida, F., Efficient EVs routing with a pareto optimization approach to logistics and energy distribution, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-14",
+      "year": "",
+      "category": "Under Review",
+      "citation": "Chu, KF., Perrusquia, A., Guo, W., Xing, Y., Iida, F. Complementary adversarial inverse reinforcement learning for vision-based driving multi-intention recognition, (under review).",
+      "links": []
+    },
+    {
+      "id": "publication-15",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Schaeffer, S., Xu, J., Palin, D., Al Tabbaa, A., Iida, F. (2024). A crack filling simulator using position-based fluids for purocess optimisatin: a robotic pavement maintenance perspective, Computers in Industry, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-16",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Qi, S., Liu, XJ., Iida, F., Zhao, H. (2026). A silent, low-heat pinch valve driven by a single rolled dielectric elastomer actuator, Transactions on Mechatronics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-17",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Xu. X., Hardman, D., Iida, F., Economy of touch: Task-driven information selection in tactile EIT-based robotic sensing, Advanced Intelligent Systems, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-18",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Wang, X., Wang, H., Sun, Z., Ye, F., Iida, F. (2026). Integrated sensing and colour expression of spatial status using a fibre optic sensor pair, Journal of Optics and Laser Technology, 198, 114907.",
+      "links": []
+    },
+    {
+      "id": "publication-19",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Ishida, M., Berio, F., Hosseini, NK., Shubin, NH., Di Santo, V., Iida, F., (2026). The undulating tripod gait as a model of the locomotion of walking fish, Nature Communications, 17:4596.",
+      "links": []
+    },
+    {
+      "id": "publication-20",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Xu, J., Palin, D., Schaefer, SD., Al-Tabbaa, A., Iida, F. (2026). Rapid flow cup-enabled liquid perception using a position-based physics simulator for robotic liquid manipulation, IEEE Transactions on Automation Science and Engineering, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-21",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Palin, D., Xu, J., Vlachakis, C., Ambrose, M., Iida, F., Al-Tabbaa, A., (2026). Microfibre-reinforced cementitious materials for preventative concrete pavement crack repair: Balancing extrusion-based crack-filling with mechanical performance, Cement and Concrete Composites167: 106460.",
+      "links": []
+    },
+    {
+      "id": "publication-22",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "D’Angelo, G., Pedersen JE., Hassan, T., Cianchetti, M., Bongard J., Iida, F., Indiveri, G., Hoffmann, M., Laschi, C., De Luca, C., Bartolozzi, C., Donati, E. (2026). A benchmarking framework for embodied neuromorphic agents, Nature Machine Intelligence, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-23",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Wang, H., Kunz, H., Adler, T., Iida, F. (2026). Self-closing suction grippers for industrial grasping via form-flexible design, IEEE Robotics and Automation Practice, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-24",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Zhou, Y. Ye, F., Chu, KF., Iida, F., (2026). Scalable mobile swarm network for reservoir computing using Gaussian kernel density estimation, Neural Networks, 195, 108263.",
+      "links": []
+    },
+    {
+      "id": "publication-25",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Laschi, C., Wen, L., Iida, F., Abdulali, A., Hauser, H., Wang, Y., Liu, K., Ricotti, L., Cianchetti, M., Althoefer, K., Nguyen, PH., Kovac., M., Calisti, M., (2026). Soft robotics: what’s next in bioinspired design and applications of soft robots? Bioinspiration & Biomimetics, 21(1): 011501.",
+      "links": []
+    },
+    {
+      "id": "publication-26",
+      "year": "2026",
+      "category": "Journal Papers",
+      "citation": "Xu, J., Palin, D., Schaefer, S., Al Tabbaa, A., Iida, F., (2026). Rapid flow cup-enabled liquid perception using a position-based physics simulator for robotic liquid manipulation, IEEE Transactions on Automation Science and Engineering, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-27",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Hosseini, NK., Ishida, M., Berio, F., Di Santo, V., Iida, F., (2025). A minimalistic walking fish robot twin based on the Single Actuator Wave-like mechanism, Bioinspiration & Biomimetics, 21(1): 016002.",
+      "links": []
+    },
+    {
+      "id": "publication-28",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Abdulali, A., Hardman, D., Iida, F. (2025). Enhancing electrical impedance based deformation sensing with dielectric current guide, Advanced Electric Materials, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-29",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Sirithunge, C., Xie, Y.,Nadipineni, S., Iida, F., Lalitharatne TD., (2025). Palpation alters auditory pain expressions with gender-specific variations in Robopatients, IEEE Transactions on Medical Robotics and Bionics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-30",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Iida, F., Hughes, J. (2025). Automated benchmarking of variable-property soft robotic fingertips to enable task-optimized sensor selection, Advanced Science, e09991.",
+      "links": []
+    },
+    {
+      "id": "publication-31",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Chu, KF., Ye, F., Abdulali, A., Iida, F. (2025). Enhancing traffic dynamics-induced machine learning through heterogeneous driving policies, npj Unconventional Computing, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-32",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Thuruthel, TG., Iida, F. (2025). Multimodal information structuring using single layer soft sensory skins and high-density Electrical Impedance Tomography, Science Robotics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-33",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Almanzor, E., Ishida, M., Abdulali, A., Iida, F., Self-organising reflex circuits for robust motor coordination in musculoskeletal systems: A sensory-motor framework inspired by long latency reflexes, Bioinspiration & Biomimetics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-34",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Gilday, K., Sirithunge, C., Iida, F., Hughes, J. (2025). Embodied manipulation with past and future morphologies through an open parametric hand design, Science Robotics 10: eads6437. DOI:10.1126/scirobotics.ads6437",
+      "links": [
+        "https://doi.org/10.1126/scirobotics.ads6437"
+      ]
+    },
+    {
+      "id": "publication-35",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Ye, F., Abdulali, A., Chu, KF., Zhang, X., Iida, F., (2025). Reservoir controllers design through robot-reservoir timescale alignment, Communications Engineering 4, 81. https://doi.org/10.1038/s44172-025-00418-1",
+      "links": [
+        "https://doi.org/10.1038/s44172-025-00418-1"
+      ]
+    },
+    {
+      "id": "publication-36",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Wang, X., Ye, F., Sun, Z., Malihi, S., Iida, F., (2025). Road surface condition prediction with an optical fibre reservoir structure based on acceleration data from vehicles, Optics and Laser Technology 186, 112641.",
+      "links": []
+    },
+    {
+      "id": "publication-37",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Zhao, J., Costi, L., Scimeca, L., Iida, F. (2025). Comparative study on depth-vision-driven autonomous dimensionality-reduction shared control for remote robotic palpation, IEEE Transactions on Robotics 41, 1882-1897.",
+      "links": []
+    },
+    {
+      "id": "publication-38",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Chu, KF., Chen, T., Xie, Y., Lam, AYS., Song, Y., Iida, F., (2025). Collaborative routing and charging/discharging scheduling of electric autonomous vehicles in coupled power-traffic networks: A multi-objective approach, IEEE Internet of Things Journal, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-39",
+      "year": "2025",
+      "category": "Journal Papers",
+      "citation": "Obayashi, N., Walker, KL., Gepner, M., Sameoto, D., Jorgensen, J., Stokes, A., Howard, D., Iida, F., Hughes, J., (2025). A democratized bimodal model of research in soft robotics: Integrating slow and fast science, Science Robotics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-40",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Sugiyama, T., Kutsuzawa, K., Owaki, D., Almanzor, E., Iida, F., Hayashibe, M., (2024). Versatile graceful degradation framework for bio-inspired proprioception with redundant soft sensors, , Frontiers in Robotics and AI, 11:1504651. DOI: 10.3389/frobt.2024.1504651",
+      "links": []
+    },
+    {
+      "id": "publication-41",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Wang, H., Zhang, X., Iida, F. (2024). Human-robot cooperative piano playing with learning-based real-time music accompaniment, IEEE Transactions on Robotics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-42",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Ishida, M., Berio, F., Di Santo, V., Shubin, NH., Iida, F. (2024). Paleo-inspired robotics as an experimental approach to the history of life, Science Robotics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-43",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Fan, C., Chu, KF., Wang, X., Kwok, KW., Iida, F. (2024). State transition learning with limited data for safe control of switched nonlinear systems, Neural Networks, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-44",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Xu, J., Anvo, NZR., Taha-Abdalgadir, H., d’Avigneau, AL., Palin, D., Wei, F., Hadjidemetriou, F., Iida, F., Al-Tabbaa, A., De Silva, L., Brilakis, I. (2024). Highway digital twin-enabled Autonomous Maintenance Plant (AMP): A perspective, Data-Centric Engineering, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-45",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Almanzor, E., Sugiyama, T., Abdulali, A., Hayashibe, M., Iida, F., (2024). Utilising redundancy in musculoskeletal systems for adaptivestiffness and muscle failure compensation: A model-free inverse statics approach, Bioinspiration & Biomimetics 19: 046015.",
+      "links": []
+    },
+    {
+      "id": "publication-46",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Monteiro, RM., Shi, J., Wurdemann, H., Iida, F., Thuruthel, TG. (2024). Visuo-dynamic self-modelling of soft robotic systems, Frontiers in Robotics and AI 11:1403733.",
+      "links": []
+    },
+    {
+      "id": "publication-47",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Schaeffer, S., Xu, J., Palin, D., Al Tabbaa, A., Iida, F. (2024). Position-based fluid simulation for robotic injection sealing of pavement cracks, Journal of Field Robotics, 41, 1438–1451..",
+      "links": []
+    },
+    {
+      "id": "publication-48",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Sochacki, G., Zhang, X., Abdulali, A., Iida, F. (2024). Towards practical robotic chef: Review of relevant work and future challenges, Journal of Field Robotics, 41, 1596–1616.",
+      "links": []
+    },
+    {
+      "id": "publication-49",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Potdar, P., Hardman, D., Almanzor, E., Iida, F. (2024). High-speed tactile braille reading via biomimetic sliding interactions, IEEE Robotics and Automation Letters 9(3): 2614-2621.",
+      "links": []
+    },
+    {
+      "id": "publication-50",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Sirithunge, C., Wang, H., Iida, F. (2024). Touchless sensing for soft robots: A review, Frontiers in Robotics and AI, 11:1224216.",
+      "links": []
+    },
+    {
+      "id": "publication-51",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Costi, L., Iida, F. (2024). Multi-silicone bilateral soft physical twin as an alternative to traditional user interfaces for remote palpation: a comparative study, Scientific Reports, 13: 23014.",
+      "links": []
+    },
+    {
+      "id": "publication-52",
+      "year": "2024",
+      "category": "Journal Papers",
+      "citation": "Legrand, J., Wang, H., Iida, F., Vanderborght, B., (2024). A variable stiffness anthropomorphic finger through embodied intelligence design, IEEE Robotics and Automation Letters 9(2): 1580-1587.",
+      "links": []
+    },
+    {
+      "id": "publication-53",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Cornella, AC., Hardman, D., Costi, L., Brancart, J., Van Assche, G., Iida, F. Variable sensitivity multimaterial robotic e-skin combining electronic and ionic conductivity using electrical impedance tomography, Scientific Reports, 13, 20004.",
+      "links": []
+    },
+    {
+      "id": "publication-54",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Costi, L., Georgopoulou, A., Mondal, S., Iida, F., Clemens, F., (2023). 3D printable self-sensing magnetorheological elastomer, Macromolecular Materials and Engineering, 2300294..",
+      "links": []
+    },
+    {
+      "id": "publication-55",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Wang, H., Nonaka, T., Abdulali, A., and Iida., F., (2023). Coordinating upper limbs for octave playing on the piano via neuro-musculoskeletal modeling, Bioinspiration & Biomimetics 18: 066009.",
+      "links": []
+    },
+    {
+      "id": "publication-56",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Legrand, J., Abdulali, A., Hardman, D., Terryn, S., Vanderborght, B., Iida, F. Autonomous testing of the repeatable healability of pneumatic self-healing soft actuators, Robotics Report, 1:1, 31-41.",
+      "links": []
+    },
+    {
+      "id": "publication-57",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Protpagorn, N., Lalitharatne, TD., Costi, L., Iida, F. (2023). Vocal pain expression augmentation for a robopatient, Frontiers in Robotics and AI, 10: 1122914.",
+      "links": []
+    },
+    {
+      "id": "publication-58",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Wang, H., Terryn, S., Wang Z, Van Assche, G., Iida., F., Vanderborght, B. (2023). Self-regulated self-healing robotic gripper for resilient and adaptive grasping, Advanced Intelligent Systems, 5: 2300223.",
+      "links": []
+    },
+    {
+      "id": "publication-59",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Sugiura, S., Hardman, D., Thuruthel, TG., Iida, F. Closed-loop optimization of soft sensor morphology by using 3-D printing of electrically conductive hydrogel, Advanced Intelligent Systems, 5: 2300152.",
+      "links": []
+    },
+    {
+      "id": "publication-60",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Georgopoulou, A., Hardman, D., Thruthel TG., Iida, F, Clemens, F., (2023). Sensorized skin with biomimetic tactility features based on bimodal soft resistive composites, Advanced Science 10: 202301590.",
+      "links": []
+    },
+    {
+      "id": "publication-61",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Sochacki, G., Abdulali, A., Khadem Hosseini, N., Iida, F. (2023). Recognition of human chef’s intentions for incremental learning of cookbook by robotic salad chef, IEEE Access 11: 57006-57020.",
+      "links": []
+    },
+    {
+      "id": "publication-62",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Almanzor, E., Ye, F., Shi, J., Thuruthel, TG., Wurdemann, H., Iida, F. (2003). Static shape control of soft continuum robots using deep visual inverse kinematic models, IEEE Transactions on Robotics 39 (4):2973-2988, doi: 10.1109/TRO.2023.3275375.",
+      "links": []
+    },
+    {
+      "id": "publication-63",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Thuruthel, TG., Iida, F. (2023). Tactile perception in hydrogel-based robotic skins using data-driven Electrical Impedance Tomography, Materials Today Electronics 4: 100032.",
+      "links": []
+    },
+    {
+      "id": "publication-64",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Gilday, K., Thuruthel, TG., Iida, F. (2023). Predictive learning of error recovery with a sensorised passivity-baseed soft anthropomorphic hand, Advanced Intelligent Systems 5:2200390.",
+      "links": []
+    },
+    {
+      "id": "publication-65",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "He, L., Maiolino, P., Leong, F., Leong, F., Lalitharatne, TD., de Lusignan, S., Ghajari, M., Iida, F., Nanayakkara, T., (2023). Robotic simulators for tissue examination training with multimodal sensory feedback, IEEE Reviews in Biomedical Engineering 16: 514-529.",
+      "links": []
+    },
+    {
+      "id": "publication-66",
+      "year": "2023",
+      "category": "Journal Papers",
+      "citation": "Laschi, C. Thuruthel, TG., Iida, F., Merzouki, R., Falotico, E., (2023). Learning-based control strategies for soft robots: Theory, achievementsand future challenges, The IEEE Control Systems Magazine, 43:3, 100-113.",
+      "links": []
+    },
+    {
+      "id": "publication-67",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Almanzor, E., Anvo, NR, Thuruthel, TG., Iida, F. (2022). Autonomous detection and sorting of litter using deep learning and soft robotic grippers, Frontiers in Robotics and AI, 9:1064853.",
+      "links": []
+    },
+    {
+      "id": "publication-68",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Abdulali, A., Terryn, S., Vanderborght, B., Iida, F. (2022). Data-driven method for damage localization on soft robotic grippers based on motion dynamics, Frontiers in Robotics and AI, 9:1016883.",
+      "links": []
+    },
+    {
+      "id": "publication-69",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Ye, F., Abdulali, A., Iida, F. (2022). State-transfer modeling collective behavior of multi-ball Bernoulli system based on local interaction forces, Frontiers in Robotics and AI, 9:980586.",
+      "links": []
+    },
+    {
+      "id": "publication-70",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Georgopoulou, A., Brancart, J., Terryn, S., Bosman, AW., Norvez, S., Assche, GW., Iida, F., Vanderborgh, B., Clemens, F., (2022). Soft self-healing resistive-based sensors inspired by sensory transduction in biological systems, Applied Materials Today 29: 101638.",
+      "links": []
+    },
+    {
+      "id": "publication-71",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Thuruthel, TG., Georgopoulou, A., Clemens, F., Iida, F. (2022). 3D Printable soft sensory fiber networks for robust and complextactile sensing, Micromachines 13: 1540. https://www.mdpi.com/2072-666X/13/9/1540",
+      "links": [
+        "https://www.mdpi.com/2072-666X/13/9/1540"
+      ]
+    },
+    {
+      "id": "publication-72",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Giardina, F., (2023). On the timescales of Embodied Intelligence for autonomous adaptive systems, Annual Reviews on Control, Robotics, and Autonomous Systems 6: 1-29.",
+      "links": []
+    },
+    {
+      "id": "publication-73",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Terryn, S., Hardman, D., Thuruthel, TG., Roels, E., Sahraeeazartamar, F., Iida, F., Learning-based damage recovery for healable soft electronic skins, Advanced Intelligent Systems, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-74",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Gilday, K., Hughes, J., Iida, F. (2022). Sensing, actuating, and interacting through passive body dynamics: A framework for soft robotic hand design, Soft Robotics 10(1): 159-173. https://doi.org/10.1089/soro.2021.0077",
+      "links": [
+        "https://doi.org/10.1089/soro.2021.0077"
+      ]
+    },
+    {
+      "id": "publication-75",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Katiyar SA, Lee LY, Iida F., Nurzaman SG (2022). Pertinent energy harvesting for robots with adaptive morphology, Soft Robotics, (in press).",
+      "links": []
+    },
+    {
+      "id": "publication-76",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Costi, L., Hughes, J., Biggins, J., Iida, F. (2022). Bioinspired soft bendable peristaltic pump exploiting buckling for high volume throughput, IEEE Transactions on Medical Robotics and Bionics 4(3): 570-577.",
+      "links": []
+    },
+    {
+      "id": "publication-77",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Lalitharatne, T.D., Costi, L., Hashem, R., Nisky, I., Jack, R.E., Nanayakkara, T., Iida, F. (2022). Face mediated human-robot interaction for remote medical examination, Scientific Reports 12:12592.",
+      "links": []
+    },
+    {
+      "id": "publication-78",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Costi, L., Maiolino, P., Iida, F. (2022). How the environment shapes tactile sensing: Understanding the relationship between tactile filters and surrounding environment, Frontiers in Robotics and AI, 9:930405.",
+      "links": []
+    },
+    {
+      "id": "publication-79",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Sochacki, G., Abdulali, A., Iida, F. (2022). Mastication-enhanced taste-based classification of multi-ingredient dishes for robotic cooking, Frontiers in Robotics and AI, section Bio-Inspired Robotics, 9:886074.",
+      "links": []
+    },
+    {
+      "id": "publication-80",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Howison, T., Crisp, H., Hauser, S., Iida, F. (2022). On the stability and behavioral diversity of single and collective Bernoulli-balls, Artificial Life, 29(2):168-186. .",
+      "links": []
+    },
+    {
+      "id": "publication-81",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "He, L., Leong, F., Lalitharatne, TD., de Lusignan, S., Ghajari, M., Iida, F., Nanayakkara, T., (2022). Robotic simulators for tissue examination training with multimodal sensory feedback, IEEE Reviews in Biomedical Engineering, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-82",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Costi, L., Tagliabue, A., Maiolino, P., Clemens F., Iida, F. (2022). Magneto-active elastomer filter for tactile sensing augmentation through online adaptive stiffening, Robotics and Automation Letters (RA-L), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-83",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Thuruthel, TG., Gartner, P., Iida, F. (2022). Closing the control loop with time-variant embedded soft sensors and recurrent neural networks, Soft Robotics, 9(6), 1167-1176.",
+      "links": []
+    },
+    {
+      "id": "publication-84",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Thuruthel, TG., Bosman AW., Hughes, J., Iida, F. (2022). Soft self-healing fluidic tactile sensors with damage detection and localization abilities, Sensors, 21(24): 8284.",
+      "links": []
+    },
+    {
+      "id": "publication-85",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Thuruthel, TG., Iida, F. (2022). Self-healing ionic gelatin/glycerol hydrogels for strain sensing applications, Nature Asia Materials, 14: 11.",
+      "links": []
+    },
+    {
+      "id": "publication-86",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Thuruthel, TG., Iida, F. (2022). Manipulation of free-floating objects using Faraday Flows and Deep Reinforcement Learning, Scientific Reports 12:335.",
+      "links": []
+    },
+    {
+      "id": "publication-87",
+      "year": "2022",
+      "category": "Journal Papers",
+      "citation": "Aubin, CA., Gorissen, B., Milana, E., Buskohl, PR., Lazarus, N., Slipher, GA., Keplinger, C., Bongard, J., Iida, F., Lewis, JA., Shepherd, RF. (2022). Towards enduring autonomous robots via embodied energy, Nature, 602, 393–402. .",
+      "links": []
+    },
+    {
+      "id": "publication-88",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Roels, E., Terryn, S., Iida, F., Bosman, A.W., Norvez, S., Clemens, F., Van Assche, G., Vanderborght, B. and Brancart, J. (2021), Processing of self-healing polymers for soft robotics, Advanced Materials, 34(1), 2104798. https://doi.org/10.1002/adma.202104798",
+      "links": [
+        "https://doi.org/10.1002/adma.202104798"
+      ]
+    },
+    {
+      "id": "publication-89",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Costi, L., Scimeca, L., Maiolino, P., Latharatne, TD., Nanayakkara, T., Hashem, R., Iida, F. (2021). Comparative analysis of model-based predictive shared control for delayed operation in object reaching and recognition tasks with tactile sensing, Frontiers in Robotics and AI, 8:730946.",
+      "links": []
+    },
+    {
+      "id": "publication-90",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Zhu, J., Rong, C., Iida, F., Rosendo, A. (2021). Bootstrapping virtual bipedal walkers with robotics scaffolded learning, Frontiers in Robotics and AI 8: 702599.",
+      "links": []
+    },
+    {
+      "id": "publication-91",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Hughes, J., Scimeca, L., Maiolino, P., Iida F., (2021). Online morphological adaptation for tactile sensing augmentation, Frontiers in Robotics and AI, section Soft Robotics, 8:665030.",
+      "links": []
+    },
+    {
+      "id": "publication-92",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Howison, T., Hughes, J., Iida, F. (2021). Morphological sensitivity and falling behaviours of paper V-shapes, Artificial Life, 27: 204-219.",
+      "links": []
+    },
+    {
+      "id": "publication-93",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Thuruthel, TG., Picardi, G., Iida, F., Laschi, C., Calisti, M., (2021). Learning to Stop: A Unifying Principle for Legged Locomotion in Varying Environments, Royal Society Open Science 8: 210223.",
+      "links": []
+    },
+    {
+      "id": "publication-94",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Scimeca, L., Hughes, J., Maiolino, P., Liang, H., Nanayakkara, T., Iida, F., (2021). Action augmentation of tactile perception for soft-body palpation, Soft Robotics, 9(2): 280-292.",
+      "links": []
+    },
+    {
+      "id": "publication-95",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Gilday, K., Hughes, J., Iida, F. (2021). Wrist-driven passive grasping: Interaction-based trajectory adaptation with a compliant anthropomorphic hand, Bioinspiration & Biomimetics 16, 026024.",
+      "links": []
+    },
+    {
+      "id": "publication-96",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Thuruthel, TG., Hughes, J., Georgopoulou, A., Clemens, F., Iida, F. (2021). Using redundant and disjoint time-variant soft robotic sensors for accurate static state estimation, Robotics and Automation Letters (RA-L) 6(2): 2099-2105.",
+      "links": []
+    },
+    {
+      "id": "publication-97",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Hardman, D., Hughes, J., Thuruthel, TG., Gilday, K., Iida, F. (2021). 3D printable sensorized soft gelatin hydrogel for multi-material soft structures, Robotics and Automation Letters (RA-L) 6(3): 5269-5275.",
+      "links": []
+    },
+    {
+      "id": "publication-98",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Katiyar, SA, Iida, F., Gouwanda, D., Nurzaman, SG., (2021). Power efficient adaptive behavior through a shape changing elastic robot, Adaptive Behavior, 30(4): 289-305.",
+      "links": []
+    },
+    {
+      "id": "publication-99",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Terryn, S., Langenbach, J., Roels, E., Brancart, J., Georgopoulou, A., Thuruthel, TG, Safaei, A., Ferrentino, P., Sebastian, T., Bakkali, T., Norvez,S., Iida, F., Bosman AW., Tournilhac, F., Clemens, F., Van Assche, G., and Vanderborght, B. (2021). A review on self-healing polymers for soft robotics, Materials Today 47: 187-205.",
+      "links": []
+    },
+    {
+      "id": "publication-100",
+      "year": "2021",
+      "category": "Journal Papers",
+      "citation": "Lalitharatne, TD., Tan, Y., Leong, F., He, L., Leong, FCY., Van Zalk, N., de Lusignan, S., Iida, F., Nanayakkara, T. (2021). MorphFace: A Hybrid Morphable Face for a Robopatient, Robotics and Automation Letters (RA-L) 6(2): 643-650.",
+      "links": []
+    },
+    {
+      "id": "publication-101",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "He, L., Herzig, N., de Lusignan, S., Scimeca, L., Maiolino, P., Iida, F., Nanayakkara, T., An abdominal phantom with tunable stiffness nodules and force sensing capability for palpation training, IEEE Transactions on Robotics, 37(4): 1051-1064.",
+      "links": []
+    },
+    {
+      "id": "publication-102",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Lalitharatne, TD., Tan, Y., Leong, F., He, L., Van Zalk, N., de Lusignan, S., Iida, F., Nanayakkara, T. Facial expression rendering in medical training simulators: Current status and future directions, IEEE Access, 8: 215874-215891.",
+      "links": []
+    },
+    {
+      "id": "publication-103",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Voysey, I., Thuruthel, TG., Iida, F., (2020). Autonomous dishwasher loading from cluttered trays using pre-trained deep neural networks, Journal of Engineering Report, e12321.",
+      "links": []
+    },
+    {
+      "id": "publication-104",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Howison, T., Hauser, S., Iida F. (2020). Reality-assisted evolution of soft robots through large-scale physical experimentation: A review, Artificial Life 26 (4): 484-506.",
+      "links": []
+    },
+    {
+      "id": "publication-105",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Scimeca, L., Ng, C., Iida, F. (2020). Gaussian Process inference modelling of dynamic robot control for expressive piano playing, PLoS ONE 15(8): e0237826. https://doi.org/10.1371/journal.pone.0237826",
+      "links": [
+        "https://doi.org/10.1371/journal.pone.0237826"
+      ]
+    },
+    {
+      "id": "publication-106",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Thuruthel, TG., Renda, F., Iida, F., (2020). First-order dynamic modelling and control of soft robots, Frontiers in Robotics and AI 7: 95. https://doi.org/10.3389/frobt.2020.00095",
+      "links": [
+        "https://doi.org/10.3389/frobt.2020.00095"
+      ]
+    },
+    {
+      "id": "publication-107",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Scimeca, L., Maiolino, P., Bray, E., Iida, F. (2020). Motor-induced structuring of tactile sensory information for category formation in robotic palpation, Autonomous Robots 44, pages1377–1393. link",
+      "links": [
+        "https://link.springer.com/article/10.1007/s10514-020-09931-y?fbclid=IwAR3-HFQuu6c-O-H51_W0PWGScdz_3JGICfCMGRWplCi66Zd5puwcDtCPRcQ"
+      ]
+    },
+    {
+      "id": "publication-108",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Thuruthel, TG., Hughes, J., Iida, F. (2020). Joint entropy-based morphology optimization of soft strain sensor networks for functional robustness, Sensors, 20(18): 10801-10810. link",
+      "links": [
+        "https://ieeexplore.ieee.org/document/9094585?denied="
+      ]
+    },
+    {
+      "id": "publication-109",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Shih, B., Shah, D., Li, L., Thuruthel TG., Park, YL., Iida, F., Bao, Z., Kramer-Bottiglio, R., Tolley, MT. (2020). Electronic skins for intelligent soft robots, Science Robotics 5(41): eaaz9239. link",
+      "links": [
+        "https://robotics.sciencemag.org/content/5/41/eaaz9239/tab-article-info"
+      ]
+    },
+    {
+      "id": "publication-110",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Howison, T., Hughes, J., Iida F. (2020). Large scale automated investigation of Free-Falling Paper shapes via iterative physical experimentation, Nature Machine Intelligence 2: 68-75. link",
+      "links": [
+        "https://www.nature.com/articles/s42256-019-0135-z"
+      ]
+    },
+    {
+      "id": "publication-111",
+      "year": "2020",
+      "category": "Journal Papers",
+      "citation": "Junge, K., Hughes, J., Thuruthel, TG., Iida, F. (2020). Improving robotic cooking using Batch Bayesian Optimization, IEEE Robotics and Automation Letters (RA-L), 5(2): 760-765. link",
+      "links": [
+        "https://ieeexplore.ieee.org/document/8954776"
+      ]
+    },
+    {
+      "id": "publication-112",
+      "year": "2019",
+      "category": "Journal Papers",
+      "citation": "Hughes, J., Gilday, K., Flexible, Scimeca, L., Iida, F. (2019). Adaptive industrial assembly: Driving innovation through competition, Journal of Intelligent Service Robotics 13: 169-178.",
+      "links": []
+    },
+    {
+      "id": "publication-113",
+      "year": "2019",
+      "category": "Journal Papers",
+      "citation": "Howison, T., Giardina, F., Iida F. (2019). Physics driven behavioural clustering of free-falling paper shapes, PLoS One, 14(6): e0217997.",
+      "links": []
+    },
+    {
+      "id": "publication-114",
+      "year": "2019",
+      "category": "Journal Papers",
+      "citation": "Birrell, S., Hughes, J., Cai, JY., Iida, F., (2019). A data-driven approach to selective robotic harvesting of iceberg lettuce, Journal of Field Robotics2019; 1– 21. https://doi.org/10.1002/rob.21888.",
+      "links": [
+        "https://doi.org/10.1002/rob.21888"
+      ]
+    },
+    {
+      "id": "publication-115",
+      "year": "2019",
+      "category": "Journal Papers",
+      "citation": "Scimeca, L., Hughes, J., Maiolino, P., Iida, F. (2019). Model-free soft structure reconstruction for proprioception using tactile arrays, Robotics and Automation Letters (RA-L)4(3): 2479 – 2484..",
+      "links": []
+    },
+    {
+      "id": "publication-116",
+      "year": "2019",
+      "category": "Journal Papers",
+      "citation": "Kanada, A., Giardina, F., Howison, T., Mashimo, T., Iida, F. (2019). Reachability improvement of a climbing robot based on large deformations induced by Tri-Tube Soft Actuators. Soft Robotics, 6(4): 483-494. http://doi.org/10.1089/soro.2018.0115",
+      "links": [
+        "http://doi.org/10.1089/soro.2018.0115"
+      ]
+    },
+    {
+      "id": "publication-117",
+      "year": "2019",
+      "category": "Journal Papers",
+      "citation": "Günther, F., Vu, H.Q., Iida, F. (2019). Improving legged robot hopping by using coupling-based series elastic actuation, IEEE/ASME Transactions on Mechatronics 24(2): 413-423.",
+      "links": []
+    },
+    {
+      "id": "publication-118",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Hughes, J.A.E., Maiolino, P., Iida, F. (2018). An anthropomorphic soft skeleton hand exploiting conditional stiffness for piano playing, Science Robotics3(25): eaau3098.",
+      "links": []
+    },
+    {
+      "id": "publication-119",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Hughes, J., Iida, F. (2018). Multi-functional soft strain sensors for wearable physiological monitoring, Sensors18(11), 3822.",
+      "links": []
+    },
+    {
+      "id": "publication-120",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Hughes, J., Scimeca, L., Ifrim, I., Maiolino, P., and F. Iida (2018). Achieving Robotically Peeled Lettuce. Robotics and Automation Letters (RA-L). PP. 1-1. 10.1109/LRA.2018.2855043",
+      "links": []
+    },
+    {
+      "id": "publication-121",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Giardina, F., Iida, F. (2018) Collision-based energetic comparison of rolling and hopping over obstacles, PLOS ONE 13(3): e0194375.",
+      "links": []
+    },
+    {
+      "id": "publication-122",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Hughes, J., Iida, F. (2018). Tactile sensing applied to the Universal Gripper using conductive thermoplastic elastomer, Soft Robotics5(5): 512-526.",
+      "links": []
+    },
+    {
+      "id": "publication-123",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Giardina, F., Iida, F. (2018). Efficient and stable locomotion for impulse-actuated robots using strictly convex foot shapes, IEEE Transactions on Robotics 34(3): 674-685.",
+      "links": []
+    },
+    {
+      "id": "publication-124",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Herzig, N., Maiolino, P., Iida, F., Nanayakkara, T. A (2018). Variable stiffness robotic probe for soft tissue palpation, Robotics and Automation Letters(RA-L) 3(2): 1168-1175.",
+      "links": []
+    },
+    {
+      "id": "publication-125",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Saar, K.A., Giardina, F., Iida, F. (2018). Model-free design optimisation of a hopping robot and its comparison with a human designer, Robotics and Automation Letters (RA-L) 3(2): 1245-1251.",
+      "links": []
+    },
+    {
+      "id": "publication-126",
+      "year": "2018",
+      "category": "Journal Papers",
+      "citation": "Wang, L., Yang Y., Chen, Y., Majidi, C., Iida, F., Askounis, E., Pei, Q. (2018). Controlled and reversible tuning of material rigidity for robot applications, Materials Today 21(5): 563-576.",
+      "links": []
+    },
+    {
+      "id": "publication-127",
+      "year": "2017",
+      "category": "Journal Papers",
+      "citation": "Rosendo, A., von Atzigen, M., Iida, F. (2017). Bayesian co-optimization of morphology and control in the design of robots, PLOS ONE 12(10): e0186107. link",
+      "links": [
+        "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186107"
+      ]
+    },
+    {
+      "id": "publication-128",
+      "year": "2017",
+      "category": "Journal Papers",
+      "citation": "Vujovic, V., Rosendo, A., Brodbeck, L., Iida, F. (2017). Evolutionary developmental robotics: Improving locomotion of physical robots, Artificial Life23(2):169-185.",
+      "links": []
+    },
+    {
+      "id": "publication-129",
+      "year": "2017",
+      "category": "Journal Papers",
+      "citation": "Wang, L., Nurzaman, S., Iida, F. (2017). Soft-material robots, Foundations and Trends in Robotics 5(3): 191-259. link",
+      "links": [
+        "http://www.nowpublishers.com/article/Details/ROB-055"
+      ]
+    },
+    {
+      "id": "publication-130",
+      "year": "2017",
+      "category": "Journal Papers",
+      "citation": "Guenther, F. and Iida, F. (2017). Energy efficient monopod running with large payload based on open loop parallel elastic actuation, IEEE Transactions on Robotics 33(1): 102-113.",
+      "links": []
+    },
+    {
+      "id": "publication-131",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Hughes, J., Culha, U., Giardina, F., Guenther, F., Rosendo, A., Iida, F. (2016). Soft manipulators and grippers: A review, Frontiers in Robotics and AI 3: 69.",
+      "links": []
+    },
+    {
+      "id": "publication-132",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Chen, J., Hongzhe, J., Iida, F., Zhao, J. (2016). A design concept of parallel elasticity extracted from biological muscles for engineered actuators, Bioinspiration & Biomimetics 11(5): 056009.",
+      "links": []
+    },
+    {
+      "id": "publication-133",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Nurzaman, SG. (2016). Adaptation of sensor morphology: An integrative view of perception from biologically inspired robotics perspective, Interface Focus 6(4): 20160016.",
+      "links": []
+    },
+    {
+      "id": "publication-134",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Rosendo, A., Iida, F. (2016). Energy efficient hopping with Hill-type muscle properties on segmented legs, Bioinspiration & Biomimetics, v. 11, p. 036002, 2016.",
+      "links": []
+    },
+    {
+      "id": "publication-135",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Hunt, J., Giardina, F., Rosendo, A., Iida, F. (2016). Improving efficiency for an open-loop controlled locomotion with a pulsed actuation. IEEE/ASME Transactions on Mechatronics, v. 21, p. 1581-1591, 2016.",
+      "links": []
+    },
+    {
+      "id": "publication-136",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Culha, U. and Iida, F (2016) Enhancement of finger motion range with compliant anthropomorphic joint design, Bioinspiration & Biomimetics, 11(2): 026001. abstract",
+      "links": [
+        "http://iopscience.iop.org/article/10.1088/1748-3190/11/2/026001"
+      ]
+    },
+    {
+      "id": "publication-137",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Vu, H.Q., Yu, X., Iida, F., and Pfeifer, R. (2016). Improving energy efficiency of hopping locomotion by using a variable stiffness actuator, IEEE/ASME Transactions on Mechatronics 21(1): 472-486.",
+      "links": []
+    },
+    {
+      "id": "publication-138",
+      "year": "2016",
+      "category": "Journal Papers",
+      "citation": "Jafari, A., Vu, H. Q., and Iida, F. (2016). Determinants for stiffness adjustment mechanisms. Journal of Intelligent and Robotic Systems 82(3): 435-454.",
+      "links": []
+    },
+    {
+      "id": "publication-139",
+      "year": "2015",
+      "category": "Journal Papers",
+      "citation": "Wang, L., Iida, F. (2015). Soft-matter robotics: Benchmark measures and quantitative characterization, IEEE Robotics and Automation Magazine 22(3): 125-139.",
+      "links": []
+    },
+    {
+      "id": "publication-140",
+      "year": "2015",
+      "category": "Journal Papers",
+      "citation": "Brodbeck, L., Hauser, S., and Iida, F. (2015) Morphological evolution of physical robots through model-free phenotype development, PLOS ONE 10(6): e0128444. doi:10.1371/journal.pone.0128444. full text.",
+      "links": [
+        "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128444"
+      ]
+    },
+    {
+      "id": "publication-141",
+      "year": "2015",
+      "category": "Journal Papers",
+      "citation": "Brodbeck, L. and Iida, F. (2015). An extendible reconfigurable robot based on hot melt adhesives, Autonomous Robots, 39(1): 87-100. abstract",
+      "links": [
+        "http://dx.doi.org/10.1007/s10514-015-9428-1"
+      ]
+    },
+    {
+      "id": "publication-142",
+      "year": "2015",
+      "category": "Journal Papers",
+      "citation": "Nurzaman, S.G., Yu, X, Kim, Y., and Iida, F. (2015). Goal directed multimodal locomotion through coupling between mechanical and attractor selection dynamics, Bioinspiration & Biomimetics 10: 025004. full text",
+      "links": [
+        "http://iopscience.iop.org/1748-3190/10/2/025004/article?fromSearchPage=true"
+      ]
+    },
+    {
+      "id": "publication-143",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Wang, L., Brodbeck, L., and Iida, F. (2014). Mechanics and energetics in tool manufacture and use: A synthetic approach, Journal of the Royal Society Interface, 11:20140827. abstract",
+      "links": [
+        "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.0827"
+      ]
+    },
+    {
+      "id": "publication-144",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Yu, X., Nurzaman, S.G., Culha U., and Iida F. (2014). Soft Robotics Education, Soft Robotics, 1(3): 202-212. abstract",
+      "links": [
+        "http://online.liebertpub.com/doi/abs/10.1089/soro.2014.0009"
+      ]
+    },
+    {
+      "id": "publication-145",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Marques, H.G., Bharadwaj, A. and Iida, F. (2014). From spontaneous motor activity to coordinated behaviour: A developmental model, PLOS Computational Biology, 10(7): e1003653. doi:10.1371/ journal.pcbi.1003653. full text",
+      "links": [
+        "http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003653"
+      ]
+    },
+    {
+      "id": "publication-146",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Culha, U., Nurzaman, S.G., Clemens, F., and Iida, F. (2014), SVAS3: Strain vector aided sensorization of soft structures, Sensors, 14(7):12748-12770. abstract",
+      "links": [
+        "http://www.mdpi.com/1424-8220/14/7/12748"
+      ]
+    },
+    {
+      "id": "publication-147",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Leach, D. (co-first author), Wang, L. (co-first author), Reusser, D., and Iida, F. (2014). Automatic building of a web-like structure based on thermoplastic adhesive, Bioinspiration & Biomimetics, 9(3): 036014. abstract",
+      "links": [
+        "http://iopscience.iop.org/1748-3190/9/3/036014/"
+      ]
+    },
+    {
+      "id": "publication-148",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Nurzaman, S.G., Yu, X., Kim, Y., and Iida, F. (2014). Guided self-organization in a dynamic embodied system based on attractor selection mechanism, Entropy, 16(5): 2592-2610. abstract",
+      "links": [
+        "http://www.mdpi.com/1099-4300/16/5/2592"
+      ]
+    },
+    {
+      "id": "publication-149",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Iida, F. and Lungarella, M. (2014). Cognition from the bottom up: On biological inspiration, body morphology, and soft materials, Trends in Cognitive Science, 18(8): 404-413. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S1364661314000862"
+      ]
+    },
+    {
+      "id": "publication-150",
+      "year": "2014",
+      "category": "Journal Papers",
+      "citation": "Wang, L., Culha, U., and Iida, F. (2014). A dragline-forming mobile robot inspired by spiders, Bioinspiration & Biomimetics, 9(1): 016006. abstract",
+      "links": [
+        "http://iopscience.iop.org/1748-3190/9/1/016006/"
+      ]
+    },
+    {
+      "id": "publication-151",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Nurzaman, S.G., Culha, U., Brodbeck, L., Wang, L., and Iida, F. (2013). Active sensing system with in situ adjustable sensor morphology, PLOS ONE, 8(12): e84090. doi:10.1371/journal.pone.0084090. Full Text",
+      "links": [
+        "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0084090;jsessionid=CBD921243BDE73F01F3098528FC4ED6A"
+      ]
+    },
+    {
+      "id": "publication-152",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Yu, X. and Iida, F. (2013). Minimalistic models of an energy efficient vertical hopping robot , IEEE Transactions on Industrial Electronics 61(2): 1053-1062. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6522811"
+      ]
+    },
+    {
+      "id": "publication-153",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Leach, D., Guenther, F., Maheshwari, N., and Iida, F. (2013). Linear multi-modal actuation through discrete coupling, IEEE/ASME Transactions on Mechatronics, 19(3):827-839. early online abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6517911"
+      ]
+    },
+    {
+      "id": "publication-154",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Blumberg, M.S., Marques, H.G., and Iida, F. (2013). Twitching in Sensorimotor Development from Sleeping Rats to Robots, Current Biology, 23(12): R532-R537. abstract",
+      "links": [
+        "http://www.cell.com/current-biology/abstract/S0960-9822%2813%2900559-9"
+      ]
+    },
+    {
+      "id": "publication-155",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Wang, L., Graber, L., and Iida, F. (2013). Large-payload climbing in complex vertical environments using thermoplastic adhesive bonds, IEEE Transactions on Robotics, 29(4): 863-874. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6504784"
+      ]
+    },
+    {
+      "id": "publication-156",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Osswald, M. and Iida, F. (2013). Design and control of a climbing robot based on hot melt adhesion, Robotics and Autonomous Systems, 61(6): 616-625. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0921889013000250"
+      ]
+    },
+    {
+      "id": "publication-157",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Reis, M., Yu, X., Maheshwari, N., and Iida, F. (2013). Morphological computation of multi-gaited robot locomotion based on free vibration, Artificial Life, 19(1): 97-114. abstract",
+      "links": [
+        "http://www.mitpressjournals.org/doi/abs/10.1162/ARTL_a_00084"
+      ]
+    },
+    {
+      "id": "publication-158",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Marques, H.G., Imitiaz, F., Iida, F., and Pfeifer, R. (2013). Self-organisation of reflexive behaviour from spontaneous motor activity, Biological Cybernetics, 107(1): 25-37. abstract",
+      "links": [
+        "http://link.springer.com/article/10.1007%2Fs00422-012-0521-7"
+      ]
+    },
+    {
+      "id": "publication-159",
+      "year": "2013",
+      "category": "Journal Papers",
+      "citation": "Reis, M. and Iida, F. (2013). An energy efficient hopping robot based on free vibration of a curved beam, IEEE/ASME Transactions on Mechatronics, 19(1): 300-311. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6403615"
+      ]
+    },
+    {
+      "id": "publication-160",
+      "year": "2012",
+      "category": "Journal Papers",
+      "citation": "Otake, M., Nurzaman, S.G., and Iida, F. (2012). Embodied cognition in psychological therapy. Journal of Cognitive Science, 13(4): 431-452.",
+      "links": []
+    },
+    {
+      "id": "publication-161",
+      "year": "2012",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Lungarella, M., and Iida, F. (2012). The challenges ahead for bio-inspired ‘soft’ robotics, Communications of the ACM, 55(11): 76-87. abstract",
+      "links": [
+        "http://dl.acm.org/citation.cfm?id=2366335"
+      ]
+    },
+    {
+      "id": "publication-162",
+      "year": "2012",
+      "category": "Journal Papers",
+      "citation": "Maheshwari, N., Gunura, K., and Iida, F. (2012). Trajectory control based on discrete full-range dynamics, Journal of Robotics and Mechatronics, 24(4): 612-619. abstract",
+      "links": [
+        "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=ROBOT002400040007.xml"
+      ]
+    },
+    {
+      "id": "publication-163",
+      "year": "2012",
+      "category": "Journal Papers",
+      "citation": "Wang, L. and Iida, F. (2012). Physical connection and disconnection control based on hot melt adhesives, IEEE/ASME Transactions on Mechatronics, 18(4): 1397-1409. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6222361"
+      ]
+    },
+    {
+      "id": "publication-164",
+      "year": "2012",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Hosoda, K., Pfeifer, R., Kuniyoshi, Y. (2012). Preface, Editorial of Special Issue on Soft Robotics, Advanced Robotics, 26(7): 689-691.",
+      "links": []
+    },
+    {
+      "id": "publication-165",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Manchester, I.R., Mettin, U., Iida, F., and Tedrake, R. (2011). Stable dynamic walking over uneven terrain, The International Journal of Robotics Research, 30(3): 265-279. abstract",
+      "links": [
+        "http://ijr.sagepub.com/content/30/3/265"
+      ]
+    },
+    {
+      "id": "publication-166",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Tedrake, S. (2010). Minimalistic control of biped walking in rough terrain, Autonomous Robots, 28(3): 355-368. abstract",
+      "links": [
+        "http://www.springerlink.com/content/b86372q887625855/"
+      ]
+    },
+    {
+      "id": "publication-167",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Minekawa, Y., Rummel, J., Seyfarth, A. (2009). Toward a human-like biped robot with compliant legs, Robotics and Autonomous Systems, 57(2): 137-144. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0921889007001765"
+      ]
+    },
+    {
+      "id": "publication-168",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Seyfarth, A., Iida, F., Tausch, R., Stelzer, M., von Stryk, O., Karguth, A. (2009). Towards bipedal jogging as a natural result of optimizing walking speed for passively compliant three-segmented legs, The International Journal of Robotics Research, 28: 257-265. abstract",
+      "links": [
+        "http://ijr.sagepub.com/content/28/2/257"
+      ]
+    },
+    {
+      "id": "publication-169",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Rummel, J., Seyfarth, A. (2008). Bipedal walking and running with spring-like biarticular muscles, Journal of Biomechanics, 41: 656-667. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0021929007004071"
+      ]
+    },
+    {
+      "id": "publication-170",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Lungarella, M., Iida, F. (2007). Self-organization, embodiment, and biologically inspired robotics, Science, 318: 1088-1093. abstract",
+      "links": [
+        "http://www.sciencemag.org/content/318/5853/1088.short"
+      ]
+    },
+    {
+      "id": "publication-171",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Iida, F., Gomez, G. (2006). Designing intelligent robots – on the implications of embodiment, Journal of Robotics Society of Japan, 24(7): 783-790. abstract",
+      "links": [
+        "https://www.jstage.jst.go.jp/article/jrsj1983/24/7/24_7_783/_article"
+      ]
+    },
+    {
+      "id": "publication-172",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Pfeifer, R. (2006). Sensing through body dynamics, Robotics and Autonomous Systems, 54(8): 631-640. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0921889006000625"
+      ]
+    },
+    {
+      "id": "publication-173",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Paul, C., Lungarella, M, Iida, F. (2006). Morphology, control and passive dynamics, Editorial of Special Issue on Morphology, control and passive dynamics, Robotics and Autonomous Systems, 54(8): 617-618. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0921889006000601"
+      ]
+    },
+    {
+      "id": "publication-174",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Iida, F., Gomez, G. (2006). Morphological computation for adaptive behavior and cognition, International Congress Series, 1291: 22-29. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0531513106001415"
+      ]
+    },
+    {
+      "id": "publication-175",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Iida, F., Bongard, J. (2005). New robotics: Design principles for intelligent systems. Artificial Life, 11(1-2): 99-120. abstract",
+      "links": [
+        "http://www.mitpressjournals.org/doi/abs/10.1162/1064546053279017"
+      ]
+    },
+    {
+      "id": "publication-176",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Pfeifer, R., Iida, F. (2005). Morphological computation: Connecting body, brain and environment. Japanese Scientific Monthly, 58(2): 48-54. link pdf",
+      "links": [
+        "http://ci.nii.ac.jp/naid/40006615282",
+        "http://people.csail.mit.edu/iida/papers/pfeifer_iida_JSM05.pdf"
+      ]
+    },
+    {
+      "id": "publication-177",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Iida, F. (2003). Biologically inspired visual odometer for navigation of a flying robot, Robotics and Autonomous Systems, Elsevier, 44(3-4): 201-208. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/article/pii/S0921889003000708"
+      ]
+    },
+    {
+      "id": "publication-178",
+      "year": "1999-2011",
+      "category": "Journal Papers",
+      "citation": "Iida, F., Hara, F. (1999). Behavior learning of a face robot based on the characteristics of human instruction, Advanced Robotics, 13(3): 283-284. abstract",
+      "links": [
+        "http://www.tandfonline.com/doi/abs/10.1163/156855399X00577"
+      ]
+    },
+    {
+      "id": "publication-179",
+      "year": "2025",
+      "category": "Book Chapters",
+      "citation": "Xie, Y., Iida, F. (2025). Biologically inspired robotics: Design principles from nervous system adaptation to evolutionary system, Evolution of Nervous Systems 3e, Elsevier, (in press).",
+      "links": []
+    },
+    {
+      "id": "publication-180",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "Josie Hughes, Arsen Abdulali, Ryman Hashem and Fumiya Iida, (2022). Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012001.",
+      "links": []
+    },
+    {
+      "id": "publication-181",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "S.M. Hadi Sadati, Marwa ElDiwiny, Surya Nurzaman, Fumiya Iida and Thrishantha Nanayakkara, (2022). Embodied Intelligence & Morphological Computation in Soft Robotics Community: Collaborations, Coordination, and Perspective, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012005.",
+      "links": []
+    },
+    {
+      "id": "publication-182",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "Ryman Hashem, Weiliang Xu and Fumiya Iida (2022). Bio-Inspired Robots Imitating Human Organs with Embodied Intelligence Behaviour, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012007.",
+      "links": []
+    },
+    {
+      "id": "publication-183",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "Kieran Gilday and Fumiya Iida, (2022). Intelligent Soft Hands and Benchmarking towards General-Purpose Robotic Manipulation, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012010.",
+      "links": []
+    },
+    {
+      "id": "publication-184",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "Thomas George Thuruthel and Fumiya Iida (2022). Morphological Computation and Control Complexity, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012011.",
+      "links": []
+    },
+    {
+      "id": "publication-185",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "Matteo Lo Preti, Thomas George Thuruthel, Kieran Gilday, Lucia Beccai and Fumiya Iida (2022). Mechanical Sensing in Embodied Agents, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012013.",
+      "links": []
+    },
+    {
+      "id": "publication-186",
+      "year": "2022",
+      "category": "Book Chapters",
+      "citation": "Ilana Nisky, Leone Costi and Fumiya Iida (2022). Coevolution of internal representations in physical human-robot orchestration – models of the surgeon and the robot in robotic surgery, 2022 IOP Conf. Ser.: Mater. Sci. Eng. 1261: 012014.",
+      "links": []
+    },
+    {
+      "id": "publication-187",
+      "year": "2020",
+      "category": "Book Chapters",
+      "citation": "Scimeca, L., Iida, F. (2020). Developmental soft robotics, Handbook of Developmental Robotics, A. Cangelosi, M. Asada (Eds.) (in press).",
+      "links": []
+    },
+    {
+      "id": "publication-188",
+      "year": "2020",
+      "category": "Book Chapters",
+      "citation": "Hughes, J., Birrell, S., Iida, F. (2020). Field robotics for harvesting: A review of field robotics approaches for harvesting, In Digital Agritechnology, Mottram, TF (Ed.), Chapter 9, Elsevier, (in press).",
+      "links": []
+    },
+    {
+      "id": "publication-189",
+      "year": "2016",
+      "category": "Book Chapters",
+      "citation": "Culha, U., Hughes, J., Rosendo, A., Giardina, F. and Iida, F. (2016). Design Principles for Soft-Rigid Hybrid Manipulators. In Soft Robotics: Trends, Applications and Challenges, Laschi, C. et al. (Eds). Springer, 87-94.",
+      "links": []
+    },
+    {
+      "id": "publication-190",
+      "year": "2015",
+      "category": "Book Chapters",
+      "citation": "Iida, F. and Ijspeert, A. (2015). Biologically inspired robotics. Springer Handbook on Robotics, 2nd Ed, Chapter 75. Springer, 2015-2034.",
+      "links": []
+    },
+    {
+      "id": "publication-191",
+      "year": "",
+      "category": "Book Chapters",
+      "citation": "Nurzaman, S.G., Matsumoto, Y., Nakamura, Y., Shirai, K., Koizumi, S., Iida, F., and Ishiguro, H., Morphological Computation: A perspective based on bacterial movement",
+      "links": []
+    },
+    {
+      "id": "publication-192",
+      "year": "2009",
+      "category": "Book Chapters",
+      "citation": "Iida, F., Bovet, S. (2009). Learning legged locomoiton, In: Artificial Life Models in Hardware, Adamatzky, A., and Komosinski, M. (Eds.), Springer, 21-33. pdf",
+      "links": [
+        "http://www.springerlink.com/content/n402122865n4v436/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-193",
+      "year": "2007",
+      "category": "Book Chapters",
+      "citation": "Iida, F., Pfeifer, R., Seyfarth, A. (2007). AI in locomotion, In: 50 Years of Artificial Intelligence, LNAI 4850, Lungarella et al. (Eds.), Springer, 134-143. pdf",
+      "links": [
+        "http://www.springerlink.com/content/x7ru015mrp25268m/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-194",
+      "year": "2007",
+      "category": "Book Chapters",
+      "citation": "Lungarella, M., Iida, F., Bongard, J., Pfeifer, R. (2007). AI in the 21st century: With historical reflections, In: 50 Years of Artificial Intelligence, LNAI 4850, Lungarella et al. (Eds.), Springer, 1-8. pdf",
+      "links": [
+        "http://www.springerlink.com/content/4438680r38250115/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-195",
+      "year": "2007",
+      "category": "Book Chapters",
+      "citation": "Lungarella, M., Iida, F., Bongard, J., Pfeifer, R. (2007). Eds., 50 Years of Artificial Intelligence, LNAI 4850, Lungarella et al. (Eds.), Springer. link",
+      "links": [
+        "http://www.springer.com/computer/artificial/book/978-3-540-77295-8"
+      ]
+    },
+    {
+      "id": "publication-196",
+      "year": "2006",
+      "category": "Book Chapters",
+      "citation": "Seyfarth A, Geyer H, Blickhan, R, Lipfert S, Rummel J, Minekawa Y, Iida F. (2006). Running and walking with compliant legs, In: Fast motions in biomechanics and robotics – Optimization and Feedback Control, Chapter 19, Diehl M, Mombaur K (eds.). Springer Verlag, Berlin Heidelberg: 383-402. pdf",
+      "links": [
+        "http://www.springerlink.com/content/bt458078365118k3/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-197",
+      "year": "2004",
+      "category": "Book Chapters",
+      "citation": "Iida, F., Pfeifer, R. (2004). Self-stabilization and behavioral diversity of embodied adaptive locomotion. Embodied artificial intelligence, Iida et al. (Eds), LNCS/AI 3139, 119-128, Springer. pdf",
+      "links": [
+        "http://www.springerlink.com/content/5pd9uflm256erpbp/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-198",
+      "year": "2004",
+      "category": "Book Chapters",
+      "citation": "Pfeifer, R., Iida, F. (2004). Embodied artificial intelligence: Trends and challenges. Embodied artificial intelligence, Iida et al. (Eds), LNCS/AI 3139, 1-26, Springer. pdf",
+      "links": [
+        "http://www.springerlink.com/content/rvynunrt0veu9pj1/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-199",
+      "year": "2004",
+      "category": "Book Chapters",
+      "citation": "Iida, F.; Pfeifer, R.; Steels, L.; Kuniyoshi, Y. (Eds.) (2004). Embodied artificial intelligence, Iida et al. (Eds), LNCS/AI 3139, Springer, ISBN: 3-540-22484-X. link",
+      "links": [
+        "http://www.springer.com/computer/artificial/book/978-3-540-22484-6"
+      ]
+    },
+    {
+      "id": "publication-200",
+      "year": "2026",
+      "category": "Reviewed Conference Papers",
+      "citation": "Nazari, K., Huang, Y., Hardman, D., Iida, F., Thuruthel, TG., Touch with insight: Physics-aware data-driven learning for EIT-based tactile sensing, 2026 IEEE International Conference on Robotics and Automation (ICRA), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-201",
+      "year": "2026",
+      "category": "Reviewed Conference Papers",
+      "citation": "Zhang, Y., Faris, O., Sirithunge, C., Chu, KF., Iida, F., Forni, F., (2026). Distributed Virtual Model Control for scalable human-robot collaboration in shared workspace, 2026 IEEE International Conference on Robotics and Automation (ICRA), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-202",
+      "year": "2026",
+      "category": "Reviewed Conference Papers",
+      "citation": "Ishida, M., Iida, F., Abdulali, A., (2026). Jet-propelled soft swimmer powered by a thermal oscillator, the 9th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2026), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-203",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Schofield, L., Abdulali, A., Sirithunge, C., Iida, F. (2024). Modeling keystroke magnitude and tempo for realistic robotic piano-playing, Proceedings of International Workshop on Embodied Intelligence 2023, Conference, IOP Conf. Series: Materials Science and Engineering 1321 (2024) 012015.",
+      "links": []
+    },
+    {
+      "id": "publication-204",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Ye, F., Bonner, T., Abdulali, A., Chu, KF., Iida, F., (2025). Reservoir computing for torque-restricted pendulum control, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 3823-3830, doi: 10.1109/IROS60139.2025.11247156.",
+      "links": []
+    },
+    {
+      "id": "publication-205",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Xu, X., Merchant, CEM., Ishida, M., Hardman, D., Iida, F. (2025). In-situ classification of soil types exploiting Electrical Impedance Tomography with a robotic actuating probe, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 1861-1867.",
+      "links": []
+    },
+    {
+      "id": "publication-206",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Chapa Sirithunge, C., Chandiramani, V., Xie, Y., Hauser, H., Conn, A., Iida, F. (2025). Soft-rigid coupled blade leg achieves spatio-temporal terrain classification with minimal sensor configuration, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 6016-6023.",
+      "links": []
+    },
+    {
+      "id": "publication-207",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Warattaseth, P., Abdulali, A., Dudley, J., Iida, F. (2025). Efficient robot control with motion primitives and mixed reality, 2025 IEEE Conference on Telepresence (Telepresence), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-208",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Giannetto, M., Ibragim, A., Iida, F., Abdulali, A. (2025). Reservoir computing encodes physical adaptations for reinforcement learning, 2025 IEEE International Conference on Robotics and Automation (ICRA), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-209",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Nadipineni, S., Hong, C., Ramlall, T, Sirithunge, C., Althoefer, K, Iida, F., Lalitharatne, TD. (2025). Human emotion-mediated soft robotic arts: Exploring the intersection of human emotions, soft robotics, and arts, 2025 IEEE 8th International Conference on Soft Robotics (RoboSoft), Lausanne, Switzerland, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-210",
+      "year": "2025",
+      "category": "Reviewed Conference Papers",
+      "citation": "Xin, R., Abdulali, A., Iida, F. (2025). Closed-Loop Control of Robotic Cutting through Tactile Force Estimation, 2025 IEEE 8th International Conference on Soft Robotics (RoboSoft), Lausanne, Switzerland, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-211",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hashem, R., Howison, T., Stilli, A., Stoyanov, D., Xu, P., Iida, F. (2024). Harnessing symmetry breaking in soft robotics: A novel approach for underactuated fingers, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-212",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Zhang, Y., Larby, D., Iida, F., Forni, F. (2024). Virtual model control for compliant reaching under uncertainties, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-213",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Xie, Y., Pinskier, J., Liow, L., Howard, D., Iida, F. (2024). A ‘MAP’ to find high-performing soft robot designs: Traversing complex design spaces using MAP-elites and topology optimization, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-214",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Abdulali, A., Costa Cornella, A., Sirithunge, C., Iida, F., (2024). Effect of material viscosity on tactile compliance discrimination, Proceedings of the 10th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob2024), (accepted)",
+      "links": []
+    },
+    {
+      "id": "publication-215",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Chu, KF., Fan, C., Iida, F., (2024). Navigating mixed traffic: Current state and future challenges in integrating autonomous and human-driven vehicles, 2024 IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-216",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Xie, Y., Wang, X., Iida, F., Howard, D., (2024). Fin-QD: A computational design framework for soft grippers: Integrating MAP-elites and high-fidelity FEM, 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-217",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Sirithunge, C., Iida, F., Zhang, X., Hughes, J., (2024). A study on pressure modulation for biomimetic fine manipulation for soft robots, 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-218",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Nicholls, L., Hardman, D., Iida, F., Multi-touch recognition of hydrogel-based e-skins using real-World EIT datasets, 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-219",
+      "year": "2024",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hardman, D., Iida, F. (2024). Controllable wound closure in artificial skins using dual-layer bioinspired mechanism, 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-220",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Almanzor, E., Birrell, S., Iida, F. (2023). Rapid development and performance evaluation of a potato planting robot, Towards Autonomous Robotic Systems (TAROS2023), pp. 15-25.",
+      "links": []
+    },
+    {
+      "id": "publication-221",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, H., Zhang, Y., Iida, F. (2023). Reduced-order modeling for piano keystroke with a soft particle jamming finger, Towards Autonomous Robotic Systems (TAROS2023), pp. 405-418.",
+      "links": []
+    },
+    {
+      "id": "publication-222",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Ye, F., Abdulali, A., Iida, F. (2023). Simulation of collective Bernoulli-ball system for characterizing dynamic self-stability, Towards Autonomous Robotic Systems (TAROS2023), pp. 367-380.",
+      "links": []
+    },
+    {
+      "id": "publication-223",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Shi, J., Abdulali, A., Sochacki, GK., Iida, F. (2023). Closed-loop robotic cooking of soups with multi-modal taste feedback, Towards Autonomous Robotic Systems (TAROS2023), pp. 51-62.",
+      "links": []
+    },
+    {
+      "id": "publication-224",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Sirithunge, C., Hashem, R., Iida, F. (2023). Estimation of soft body deformation by using light, Towards Autonomous Robotic Systems (TAROS2023), pp. 393-404.",
+      "links": []
+    },
+    {
+      "id": "publication-225",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Costi, L., Almanzor, E., Scimeca, L., Iida, F. (2023). Comparative study of hand-tracking andtraditional control interfaces for remote palpation, Towards Autonomous Robotic Systems (TAROS2023), pp. 457-469.",
+      "links": []
+    },
+    {
+      "id": "publication-226",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, K., Hashem, R., Abdulali, A., Iida, F. (2023). The Xeno-Tongue Gripper: Granular jamming suction cup with bellow-driven self-morphing, IEEE International Conference of Soft Robotics (RoboSoft 2023).",
+      "links": []
+    },
+    {
+      "id": "publication-227",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Tano, N., Hashem, R., Hardman, D., Iida, F. (2023). Variable response characteristics of a soft sensorized hydrogel using mesoscale cellular structures, IEEE International Conference of Soft Robotics (RoboSoft 2023).",
+      "links": []
+    },
+    {
+      "id": "publication-228",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Nonaka, T., Abdulali, A., Sirithunge, C., Gilday, K., Iida, F. (2023). Soft robotic tactile perception of softer objects based on larning of spatiotemporal pressure patterns, IEEE International Conference of Soft Robotics (RoboSoft 2023).",
+      "links": []
+    },
+    {
+      "id": "publication-229",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Thuruthel, TG., Iida, F. (2023). Multimodel sensor fusion for learning rich models for interacting soft robots, IEEE International Conference of Soft Robotics (RoboSoft 2023).",
+      "links": []
+    },
+    {
+      "id": "publication-230",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hardman, D., Hashem R., Iida, F. (2022). Stretchable sensors for the detection of asymmetric deformations in a soft manipulator, IEEE International Conference of Soft Robotics (RoboSoft 2023).",
+      "links": []
+    },
+    {
+      "id": "publication-231",
+      "year": "2023",
+      "category": "Reviewed Conference Papers",
+      "citation": "Cai, Y., Hardman, D., Iida, F., Thuruthel, TG. (2023). Design and development of a hydrogel-based soft sensor for multi-axis force control, 2023 IEEE International Conference on Robotics and Automation (ICRA), 594-600.",
+      "links": []
+    },
+    {
+      "id": "publication-232",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, K., Relandeau, L., Iida, F. (2022). Design and characterisation of a soft barometric sensing skin for robotic manipulation, IEEE International Conference on Intelligent Robots and Systems (IROS2022), 10021-10028.",
+      "links": []
+    },
+    {
+      "id": "publication-233",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Washio, S., Gilday, K., Iida, F. (2022). Design and control of a multi-modal soft gripper inspired by an elephant fingers, IEEE International Conference on Intelligent Robots and Systems (IROS2022), 4228-4235.",
+      "links": []
+    },
+    {
+      "id": "publication-234",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Almanzor, E., Thuruthel, TG., Iida, F., (2022). Automated fruit quality testing using an electrical impedance tomography-enabled soft robotic gripper, IEEE International Conference on Intelligent Robots and Systems (IROS2022), 8500-8506.",
+      "links": []
+    },
+    {
+      "id": "publication-235",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Protpagorn, N., Costi, L., Lalitharatne, TD., Nisky I., Iida, F. (2022). Vocal pain expression augmentation to improve interaction accuracy in virtual Robopatient, IEEE BioRob Conference 2022, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-236",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Costi, L., Lalitharatne, TD., Iida, F. (2022). Soft control interface for highly dexterous unilateral remote palpation, IEEE BioRob Conference 2022, doi: 10.1109/BioRob52689.2022.9925382.",
+      "links": []
+    },
+    {
+      "id": "publication-237",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, H., Howison, T., Hughes, J., Abdulali, A., Iida, F. (2022). Data-driven simulation framework for expressive piano playing by anthropomorphic hand with variable passive properties, IEEE International Conference of Soft Robotics (RoboSoft 2022), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-238",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hashem R., Iida, F. (2022). Embedded soft sensing in soft ring actuator for aiding with the self-organisation of the in-hand rotational manipulation, IEEE International Conference of Soft Robotics (RoboSoft2022), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-239",
+      "year": "2022",
+      "category": "Reviewed Conference Papers",
+      "citation": "Costi, L., Maiolino, P., Iida, F., (2022). Soft morphing interface for tactile feedback in remote palpation, IEEE International Conference of Soft Robotics (RoboSoft 2022), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-240",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Costi, L., Hughes, J., & Iida, F. (2021). Bioinspired soft bendable peristaltic pump exploiting ballooning for high volume throughput, International Conference on Advanced Robotics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-241",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Sochacki, GK., Hughes, J., Hauser, S., Iida, F. (2021). Closed-loop robotic cooking of scrambled eggs with a salinity-based taste sensor, the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-242",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hauser, S., Dujany, M., Arreguit, J., Ijspeert, A., Iida, F. (2021). Coupling-dependent convergence behavior of phase oscillators with tegotae-control, the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-243",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Ravasio C., Iida, F., Rosendo, A. (2021). Fitness shaping on SLIP locomotion optimization, 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), (in press).",
+      "links": []
+    },
+    {
+      "id": "publication-244",
+      "year": "",
+      "category": "Reviewed Conference Papers",
+      "citation": "Danno, D., Hauser, S., Iida, F. Robotic cooking through pose extraction from human natural cooking using OpenPose, IAS-16 (16th International Conference on Intelligent Autonomous System), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-245",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Sochacki, G., Hughes, J., Iida, F. (2021). Compliant sensorized testing device to provide a model based estimation of the cooking time of vegetables, IAS-16 (16th International Conference on Intelligent Autonomous System), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-246",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, K., Hughes, J., Iida, F. (2021). Jamming joints for stiffness and posture control with an anthropomorphic hand, the 4th IEEE International Conference on Soft Robotics (RoboSoft), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-247",
+      "year": "2021",
+      "category": "Reviewed Conference Papers",
+      "citation": "Birrell, S., Iida, F. (2021). Simulation, learning, and control methods to improve robotic vegetable harvesting, International Symposium of Experimental Robotics, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-248",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, K., Lilley, J., Iida, F. (2020). Suction cup based on particle jamming and its performance comparison in various fruit handling tasks, The 2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-249",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Howison, T., Hughes, J., Iida, F. (2020). Morphologically programming the interactions of V-shaped falling papers, Artificial Life Conference, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-250",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Voysey, I., Hughes, J., Thuruthel, TG., Gilday, K., Iida, F. (2020). Real world Bayesian Optimization using robots to clean liquid spills, 21st Towards Autonomous Robotic Systems Conference (TAROS2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-251",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Thuruthel, TG, Gilday, K., Iida, F., (2020). Drift-free latent space representation for soft strain sensors, IEEE International Conference on Soft Robotics (RoboSoft2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-252",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Scimeca, L., Iida, F. (2020). Self-supervised learning through scene observation for selective item identification in conveyor belt applications, 21st Towards Autonomous Robotic Systems Conference (TAROS2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-253",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hardman, D., Thuruthel, TG., Iida, F. (2020). Towards growing robots: A piecewise morphology-controller co-adaptation strategy for legged locomotion, 21st Towards Autonomous Robotic Systems Conference (TAROS2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-254",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, M., Thuruthel, TG., Iida, F., (2020). A vision-based collocated actuation-sensing scheme for a compliant tendon-driven robotic hand, IEEE International Conference on Soft Robotics (RoboSoft2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-255",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hughes, J., Maiolino, P., Iida F., (2020). Sensorized phantom for characterizing large area deformation of soft bodies, IEEE International Conference on Soft Robotics (RoboSoft2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-256",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Scimeca, L., Maiolino, P., Iida, F., (2020). Efficient Bayesian Exploration for soft morphology-action co-optimization, IEEE International Conference on Soft Robotics (RoboSoft2020), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-257",
+      "year": "2020",
+      "category": "Reviewed Conference Papers",
+      "citation": "Howison, T., Giardina, F., Iida F. (2020). Harnessing self-stability: Height control of a Bernoulli Ball via bang-bang control, 2020 IEEE International Conference on Robotics and Automation (ICRA), May 31 – June 4, 2020, France, (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-258",
+      "year": "2019",
+      "category": "Reviewed Conference Papers",
+      "citation": "Nishikawa, S., Iida, F., Kuniyoshi, Y. (2019). Ready posture for rapid reaction of Badminton Robot Arm, IEEE International Conference on Robotics and Biomimetics (ROBIO2019), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-259",
+      "year": "2019",
+      "category": "Reviewed Conference Papers",
+      "citation": "Katiyar, SA., Iida, F., Nurzaman, SG., (2019). Energy harvesting in soft robot locomotion with complex dynamics, the 9th IEEE International Conference on Cybernetics and Intelligent Systems, and Robotics, Automation and Mechatronics (CIS-RAM2019), (accepted).",
+      "links": []
+    },
+    {
+      "id": "publication-260",
+      "year": "2019",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, K., Hughes, J., Iida, F. (2019). Gel-based soft interfaces for fastener manipulation in robotic agile assembly, IEEE International Conference on Soft Robotics (RoboSoft2019), 155-160.",
+      "links": []
+    },
+    {
+      "id": "publication-261",
+      "year": "2019",
+      "category": "Reviewed Conference Papers",
+      "citation": "Scimeca, L., Maiolino, P., Cardin-Catalan, D., del Pobil, A.P., Morales, A., Iida, F. (2019). Non-destructive robotic assessment of mango ripeness via multi-point soft haptics, ICRA2019, 1821-1826.",
+      "links": []
+    },
+    {
+      "id": "publication-262",
+      "year": "2018",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gilday, K., Hughes, J., Iida F. (2018). Achieving flexible assembly using autonomous robotic systems, The 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 1-9.",
+      "links": []
+    },
+    {
+      "id": "publication-263",
+      "year": "2018",
+      "category": "Reviewed Conference Papers",
+      "citation": "Cheah, M. Hughes, J., Iida, J. (2018). Data synthesization for classification in autonomous robotic grasping system using ‘catalogue’-style images, 19th Annual Conference Towards Autonomous Robotic Systems, TAROS 2018, Bristol, UK, July 25-27, 40-51.",
+      "links": []
+    },
+    {
+      "id": "publication-264",
+      "year": "2018",
+      "category": "Reviewed Conference Papers",
+      "citation": "Scimeca, L., Maiolino, P., Iida, F. (2018). Soft morphological processing of tactile stimuli for autonomous category formation, IEEE International Conference on Soft Robotics (RoboSoft2018), 356-361.",
+      "links": []
+    },
+    {
+      "id": "publication-265",
+      "year": "2018",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hughes, J., Iida, F. (2018). Tack and deformation based sensorised gripping using conductive hot melt adhesive, IEEE International Conference on Soft Robotics (RoboSoft2018), 553 – 558.",
+      "links": []
+    },
+    {
+      "id": "publication-266",
+      "year": "2018",
+      "category": "Reviewed Conference Papers",
+      "citation": "Katiyar, SA.. Kandasamy, G., Kulatunga, ES., Rahman, MM., Iida, F., Nurzaman SG. (2018). Morphological adaptation in an energy efficient vibration-based robot, 2018 IEEE International Conference on Robotics and Automation (ICRA), May 21 – 25, 2018, Australia, 1575 – 1582.",
+      "links": []
+    },
+    {
+      "id": "publication-267",
+      "year": "2017",
+      "category": "Reviewed Conference Papers",
+      "citation": "Saar, K.A., Rosendo, A., Iida, F. (2017). Bayesian Optimization of gaits on a bipedal SLIP model, IEEE ROBIO 2017, 1812 – 1817.",
+      "links": []
+    },
+    {
+      "id": "publication-268",
+      "year": "2017",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hughes, J., Iida, F. (2017). 3D printed sensorized soft robotic manipulator design, 18th Annual Conference Towards Autonomous Robotic Systems, TAROS 2017, Guildford, UK July 19-21, 2017, 627-636.",
+      "links": []
+    },
+    {
+      "id": "publication-269",
+      "year": "2017",
+      "category": "Reviewed Conference Papers",
+      "citation": "Watson, J., Hughes, J., Iida, F. (2017). Real-world, real-time robotic grasping with convolutional neural networks, 18th Annual Conference Towards Autonomous Robotic Systems, TAROS 2017, Guildford, UK July 19-21, 2017, 617-626.",
+      "links": []
+    },
+    {
+      "id": "publication-270",
+      "year": "2017",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hughes, J., Iida, F. (2017). Localized differential sensing of soft deformable surfaces. 2017 IEEE International Conference on Robotics and Automation, May 29 – June 3, 2017, Singapore, pp. 4959-4964.",
+      "links": []
+    },
+    {
+      "id": "publication-271",
+      "year": "2016",
+      "category": "Reviewed Conference Papers",
+      "citation": "Giardina, F., Iida, F. (2016). Effects of discrete foot shape changes on the dynamics of a hopping robot. International Symposium of Experimental Robotics (ISER2016), 113-122.",
+      "links": []
+    },
+    {
+      "id": "publication-272",
+      "year": "",
+      "category": "Reviewed Conference Papers",
+      "citation": "Chepisheva, M., Culha, U. and Iida, F. A biologically inspired soft robotic hand using chopstics for grasping tasks, The 14th International Conference on the Simulation of Adaptive Behavior (SAB2016), 195-206 .",
+      "links": []
+    },
+    {
+      "id": "publication-273",
+      "year": "2016",
+      "category": "Reviewed Conference Papers",
+      "citation": "Giardina, F., Iida, F. (2016). Simulation of Forward Hopping Dynamics in Robots and Animals using a Template with a Circular Foot and Impulsive Actuation. 2016 6th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob?), Singapore, 2016, pp. 7-12.",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/bin/edit/Main/BioRob?topicparent=Main.Publications"
+      ]
+    },
+    {
+      "id": "publication-274",
+      "year": "2015",
+      "category": "Reviewed Conference Papers",
+      "citation": "Guenther, F., Shu, Y., Iida, F. (2015). Parallel elastic actuation for efficient large payload locomotion. 2015 IEEE International Conference on Robotics and Automation (ICRA), 26-30 May 2015, Seattle, WA, pp. 823-828. abstract",
+      "links": [
+        "http://icra2015.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7139273"
+      ]
+    },
+    {
+      "id": "publication-275",
+      "year": "2015",
+      "category": "Reviewed Conference Papers",
+      "citation": "Kim, Y., Nurzaman, S.G., Iida, F., Fukushima, F.E. (2015). A self organization approach to goal-directed multimodal locomotion based on attractor selection mechanism. The 2015 IEEE International Conference on Robotics and Automation (ICRA 2015), 26 May-30 June 2015, Seattle, USA. accepted.",
+      "links": [
+        "http://icra2015.org/"
+      ]
+    },
+    {
+      "id": "publication-276",
+      "year": "2014",
+      "category": "Reviewed Conference Papers",
+      "citation": "Culha, U., Wani, U., Nurzaman, S.G., Clemens, F., and Iida, F., Motion pattern discrimination for soft robots with morphologically flexible sensors. The 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 14-18 September 2014, Chicago, USA. 567-572.",
+      "links": [
+        "http://www.iros2014.org/"
+      ]
+    },
+    {
+      "id": "publication-277",
+      "year": "2014",
+      "category": "Reviewed Conference Papers",
+      "citation": "Guenther, F., Giardina, F., Iida, F. (2014). Self-stable one-legged hopping using a curved foot. Proceedings of the 2014 IEEE International Conference on Robotics and Automation (ICRA 2014), 31 May-6 June 2014, Hong Kong, China, 5133-5138. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6895053",
+        "http://www.icra2014.com/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6907612"
+      ]
+    },
+    {
+      "id": "publication-278",
+      "year": "2014",
+      "category": "Reviewed Conference Papers",
+      "citation": "Brodbeck L., and Iida, F. (2014). Automatic real-world assembly of machine-designed structures. Proceedings of the 2014 IEEE International Conference on Robotics and Automation (ICRA 2014), 31 May-6 June 2014, Hong Kong, China, 1221-1226. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6895053",
+        "http://www.icra2014.com/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6907009"
+      ]
+    },
+    {
+      "id": "publication-279",
+      "year": "2014",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, L., Peruzzi, C., Culha, U., Jovic, M., and Iida, F. (2014). Continuous dragline formation in a mobile robot. Proceedings of the 2014 IEEE International Conference on Robotics and Automation (ICRA 2014), 31 May-6 June 2014, Hong Kong, China, 4229-4234. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6895053",
+        "http://www.icra2014.com/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6907474"
+      ]
+    },
+    {
+      "id": "publication-280",
+      "year": "2014",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Wang, L., and Brodbeck, L. (2014). Self-reconfiguration robots based on thermoplastic adhesives. Proceedings of the 11th International Symposium on Distributed Autonomous Robotic Systems (DARS 2012), 8-11 November 2012, Baltimore, USA, 193-204. abstract",
+      "links": [
+        "http://www.springer.com/engineering/robotics/book/978-3-642-55145-1",
+        "http://www.dars2012.com/",
+        "http://www.dars2012.com/",
+        "http://link.springer.com/chapter/10.1007/978-3-642-55146-8_14"
+      ]
+    },
+    {
+      "id": "publication-281",
+      "year": "2013",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Wang, L., Brodbeck, L., Nurzaman, S.G., Leach, D., and Culha, U. (2013). The solving by building approach based on thermoplastic adhesives. Proceedings of the 16th International Symposium on Robotics Research (ISRR 2013), 16-19 December 2013, Singapore. in press",
+      "links": [
+        "http://www.uk.sagepub.com/repository/binaries/pdf/IRJ-cfp.pdf"
+      ]
+    },
+    {
+      "id": "publication-282",
+      "year": "2013",
+      "category": "Reviewed Conference Papers",
+      "citation": "Leach, D., Wang, L., Reusser, D., and Iida, F. (2013). In situ thermoplastic thread formation for robot built structures. Proceedings of the 16th International Conference on Advanced Robotics (ICAR 2013), 25-29 November 2013, Montevideo, Uruguay. in press. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6766504"
+      ]
+    },
+    {
+      "id": "publication-283",
+      "year": "2013",
+      "category": "Reviewed Conference Papers",
+      "citation": "Guenther, F. and Iida, F. (2013). Preloaded hopping with linear multi-modal actuation. Proceedings of the 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013), 3-7 November 2013, Tokyo Big Sight, Japan, 5847-5852.",
+      "links": []
+    },
+    {
+      "id": "publication-284",
+      "year": "2013",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, L., Culha, U., and Iida, F. (2013). Free-space locomotion with thread formation. Proceedings of the 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013), 3-7 November 2013, Tokyo Big Sight, Japan, 4046-4051. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6679723",
+        "http://www.iros2013.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6696935"
+      ]
+    },
+    {
+      "id": "publication-285",
+      "year": "2013",
+      "category": "Reviewed Conference Papers",
+      "citation": "Pfeifer, R., Marques, H.G, and Iida, F. (2013). Soft robotics: The next generation of intelligent machines. Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI 2013), 3-9 August 2013, Beijing, China, 5-11. pdf",
+      "links": [
+        "http://ijcai13.org/proceedings",
+        "http://ijcai13.org/",
+        "http://ijcai.org/papers13/Papers/IJCAI13-011.pdf"
+      ]
+    },
+    {
+      "id": "publication-286",
+      "year": "2013",
+      "category": "Reviewed Conference Papers",
+      "citation": "Yu, X. and Iida, F. (2013). Minimalistic models of curve beam robot for energy efficient hopping. Proceedings of the 2013 IEEE International Conference on Robotics and Automation (ICRA 2013), 6-10 May 2013, Karlsruhe, Germany, 1053-1062. abstract",
+      "links": [
+        "http://www.icra2013.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6522811"
+      ]
+    },
+    {
+      "id": "publication-287",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Thandiackal, R., Braendle, C., Leach, D., Jafari, A., and Iida, F. (2012). Exploiting passive dynamics for robot throwing task. Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2012), 7-12 October 2012, Vilamoura, Portugal, 2443-2448. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6363628",
+        "http://www.iros2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6386000"
+      ]
+    },
+    {
+      "id": "publication-288",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Leach, D., Guenther, F., Maheshwari, N., and Iida, F. (2012). Linear multi-modal actuation through discrete coupling. Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2012), 7-12 October 2012, Vilamoura, Portugal, 2437-2442. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6363628",
+        "http://www.iros2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6385867"
+      ]
+    },
+    {
+      "id": "publication-289",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Brodbeck, L. and Iida, F. (2012). Enhanced robotic body extension with modular units. Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2012), 7-12 October 2012, Vilamoura, Portugal, 1428-1433. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6363628",
+        "http://www.iros2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6385516"
+      ]
+    },
+    {
+      "id": "publication-290",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, L., Graber, L., and Iida, F. (2012). Climbing vertical terrains with a self-contained robot. Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2012), 7-12 October 2012, Vilamoura, Portugal, 305-310. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6363628",
+        "http://www.iros2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6385848"
+      ]
+    },
+    {
+      "id": "publication-291",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Maheshwari, N., Yu, X., Reis, M., and Iida, F. (2012). Resonance based multi-gaited robot locomotion. Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2012), 7-12 October 2012, Vilamoura, Portugal, 169-174. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6363628",
+        "http://www.iros2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6385618"
+      ]
+    },
+    {
+      "id": "publication-292",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Marques, H.G., Voelk, K., Koenig, S., and Iida, F. (2012). Self-organization of spinal reflexes involving homonymous, antagonist and synergistic interactions. Proceedings of the 12th International Conference on Adaptive Behaviour (SAB 2012), 27-31 August 2012, Odense, Denmark, 169-278.",
+      "links": []
+    },
+    {
+      "id": "publication-293",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Maheshwari, N., Yu, X., Reis, M., and Iida, F. (2012). Exploiting free vibration of an elastic beam for stable running locomotion. Proceedings of the 2012 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2012), 11-14 July 2012, KaoHsiung?, RO China, 24-29. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6257544",
+        "http://www.birl.ethz.ch/research/publications/www.aim2012.org",
+        "http://divf.eng.cam.ac.uk/birl/bin/edit/Main/KaoHsiung?topicparent=Main.Publications",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6266024"
+      ]
+    },
+    {
+      "id": "publication-294",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Marques, H.G., Voelk, K., Koenig, S. and Iida, F. (2012). Self-organization of spinal reflexes through soft musculoskeletal interactions. Proceedings of the 4th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob? 2012), 24-27 June 2012, Rome, Italy, 606-611. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6275757",
+        "http://www.biorob2012.org/",
+        "http://divf.eng.cam.ac.uk/birl/bin/edit/Main/BioRob?topicparent=Main.Publications",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6290747"
+      ]
+    },
+    {
+      "id": "publication-295",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, L. and Iida, F. (2012). Towards ”soft” self-reconfigurable robots. Proceedings of the 4th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob? 2012), 24-27 June 2012, Rome, Italy, 593-598. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6275757",
+        "http://www.biorob2012.org/",
+        "http://divf.eng.cam.ac.uk/birl/bin/edit/Main/BioRob?topicparent=Main.Publications",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6290258"
+      ]
+    },
+    {
+      "id": "publication-296",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Brodbeck, L., Wang, L., and Iida, F. (2012). Robotic body extension based on hot melt adhesives. Proceedings of the 2012 IEEE International Conference on Robotics and Automation (ICRA 2012), 14-18 May 2012, St Paul, USA, 4322-4327. abstract (Covered by New Scientist, Daily Mail, NBC News, Popular Science, and IEEE Spectrum)",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6215071",
+        "http://www.icra2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6225258",
+        "http://www.birl.ethz.ch/news/mediacover",
+        "http://www.birl.ethz.ch/news/mediacover",
+        "http://www.birl.ethz.ch/news/mediacover"
+      ]
+    },
+    {
+      "id": "publication-297",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Jafari, A., Tsagarakis, N.G., Sardellitti, I., and Caldwell, D.G. (2012). How design can affect the energy required to regulate the stiffness in variable stiffness actuators, Proceedings of the 2012 IEEE International Conference on Robotics and Automation (ICRA 2012), 14-18 May 2012, St Paul, USA, 2792-2797. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6215071",
+        "http://www.icra2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6224946"
+      ]
+    },
+    {
+      "id": "publication-298",
+      "year": "2012",
+      "category": "Reviewed Conference Papers",
+      "citation": "Wang, L., Neuschaefer, F., Bernet, R., and Iida, F. (2012). Design considerations for attachment and detachment in robot climbing with hot melt adhesives, Proceedings of the 2012 IEEE International Conference on Robotics and Automation (ICRA 2012), 14-18 May 2012, St Paul, USA, 1181-1186. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6215071",
+        "http://www.icra2012.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6224955"
+      ]
+    },
+    {
+      "id": "publication-299",
+      "year": "2011",
+      "category": "Reviewed Conference Papers",
+      "citation": "Gunura, K., Bocanegra, F.J., and Iida, F. (2011). Design and control of a novel visco-elastic braking mechanism using HMA, Proceedings of the 4th International Conference on Intelligent Robotics and Applications (ICIRA 2011), 6-8 December 2011, Aachen, Germany, 416-425. pdf",
+      "links": [
+        "http://www.springer.com/computer/ai/book/978-3-642-25488-8",
+        "http://www.icira2011.org/",
+        "http://www.springerlink.com/content/t17p67343827k205/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-300",
+      "year": "2011",
+      "category": "Reviewed Conference Papers",
+      "citation": "Osswald, M. and Iida, F. (2011). A climbing robot based on hot melt adhesion, Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011), 25-30 September 2011, San Francisco, USA, 5107-5112. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6034548",
+        "http://www.iros2011.org/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6094741"
+      ]
+    },
+    {
+      "id": "publication-301",
+      "year": "2011",
+      "category": "Reviewed Conference Papers",
+      "citation": "Reis, M. and Iida, F. (2011). Hopping robot based on free vibration of an elastic curved beam, Proceedings of the 2011 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2011), 3-7 July 2011, Budapest, Hungary, 892-897. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6019107",
+        "http://www.aim2011.org/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6027082"
+      ]
+    },
+    {
+      "id": "publication-302",
+      "year": "2009",
+      "category": "Reviewed Conference Papers",
+      "citation": "Manchester, I., Mettin, U., Iida F., Tedrake, R. (2009). Stable dynamic walking over rough terrain: Theory and experiment, Proceedings of the 14th International Symposium of Robotics Research (ISRR 2009), 31 August – 3 September 2009, Zurich, Switzerland, 123-138. link",
+      "links": [
+        "http://www.isrr2009.ethz.ch/proceedings.html",
+        "http://www.isrr2009.ethz.ch/",
+        "http://www.isrr2009.ethz.ch/proceedings.html"
+      ]
+    },
+    {
+      "id": "publication-303",
+      "year": "2009",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Tedrake, R. (2009). Minimalistic control of a compass gait robot in rough terrain, Proceedings of the 2009 IEEE International Conference on Robotics and Automation (ICRA 2009), 12-17 May 2009, Kobe, Japan, 1985-1990. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5076472",
+        "http://www.icra2009.org/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5152694"
+      ]
+    },
+    {
+      "id": "publication-304",
+      "year": "2008",
+      "category": "Reviewed Conference Papers",
+      "citation": "Rummel, J., Iida, F., Smith, J.A., Seyfarth, A. (2008). Enlarging regions of stable running with segmented legs, Proceedings of the 2008 IEEE International Conference on Robotics and Automation (ICRA 2008), 19-23 May 2008, Pasadena, USA, 367-372. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4534525",
+        "http://icra2008.ieee-ras.org/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4543235"
+      ]
+    },
+    {
+      "id": "publication-305",
+      "year": "2007",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Tedrake, R. (2007). Optimization of motor control in underactuated one-legged locomotion, Proceedings of the 2007 IEEE/RSJ International Conference on Robotics and Systems (IROS 2007), 10 October-2 November 2007, San Diego, USA, 2230-2235. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4398943",
+        "http://wiki.ieee-ras.org/conferences/iros2007/index",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4399195"
+      ]
+    },
+    {
+      "id": "publication-306",
+      "year": "2007",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Rummel, J., Seyfarth, A. (2007). Bipedal walking and running with compliant legs, Proceedings of the 2007 IEEE International Conference on Robotics and Automation (ICRA 2007), 10-14 April 2007, Roma, Italy, 3970-3975. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4209049",
+        "http://icra2007.ieee-ras.org/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4209706"
+      ]
+    },
+    {
+      "id": "publication-307",
+      "year": "2006",
+      "category": "Reviewed Conference Papers",
+      "citation": "Buchli, J., Iida, F., Ijspeert, A.J. (2006). Finding resonance: Adaptive frequency oscillators for dynamic legged locomotion, Proceedings of the 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2006), 9-15 October 2006, Beijing, China, 3903-3909. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4058334",
+        "http://www2.acae.cuhk.edu.hk/%7Eiros06/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4059016"
+      ]
+    },
+    {
+      "id": "publication-308",
+      "year": "2006",
+      "category": "Reviewed Conference Papers",
+      "citation": "Ziegler, M., Iida, F., Pfeifer, R. (2006). “Cheap” underwater locomotion: Roles of morphological properties and behavioural diversity, Proceedings of the 9th International Conference on Climbing and Walking Robots (CLAWAR 2006), 12-14 September 2006, Brussels, Belgium. pdf",
+      "links": [
+        "http://www.bsmee.be/events/clawar2006/clawar2006.html",
+        "http://www.ifi.uzh.ch/arvo/ailab/teaching/ShanghAI/CheapUnderwaterLocomotion.pdf"
+      ]
+    },
+    {
+      "id": "publication-309",
+      "year": "2006",
+      "category": "Reviewed Conference Papers",
+      "citation": "Seyfarth, A., Stelzer, M., Iida, F., Karguth, A., von Stryk, O. (2006). Towards bipedal jogging as a natural result of optimizing walking speed for passively compliant three-segmented legs. Proceedings of the 9th International Conference on Climbing and Walking Robots (CLAWAR 2006), 12-14 September 2006, Brussels, Belgium. pdf",
+      "links": [
+        "http://www.bsmee.be/events/clawar2006/clawar2006.html",
+        "http://people.csail.mit.edu/iida/papers/Seyfarth06CLAWAR.pdf"
+      ]
+    },
+    {
+      "id": "publication-310",
+      "year": "2006",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Minekawa, Y. Rummel, J., Seyfarth, A. (2006). Toward a human-like biped robot with compliant legs, Proceedings of the 9th International Conference on Intelligent Autonomous Systems (IAS-9), 7-9 March 2006, Tokyo, Japan, Arai, T. et al. (Eds.), IOS Press, 820-827. link pdf",
+      "links": [
+        "http://books.google.com/books?id=Z6u1un0AwVEC&printsec=frontcover&dq=Intelligent+Autonomous+Systems+-+9&source=bl&ots=uvpSMNDSLA&sig=yFSEnyuyxp6IdhOzWUzdHsXyNlc&hl=en&ei=Q2J-TMPxK5GLswaVtf2VCQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CB4Q6AEwAA#v=onepage&q&f=false",
+        "http://www.robot.t.u-tokyo.ac.jp/IAS-9/",
+        "http://www.iospress.nl/loadtop/load.php?isbn=9781586035952",
+        "http://books.google.com/books?id=Z6u1un0AwVEC&pg=PA820&lpg=PA820&dq=Toward+a+human-like+biped+robot+with+compliant+legs&source=bl&ots=uvpSMNDVQv&sig=RnQSVrcZ2GvdL6qFs21TJRx9Pog&hl=en&ei=nGN-TO__E9HBswasn5WGDQ&sa=X&oi=book_result&ct=result&resnum=5&ved=0CCsQ6AEwBA#v=onepage&q=Toward%20a%20human-like%20biped%20robot%20with%20compliant%20legs&f=false",
+        "http://www.lauflabor.uni-jena.de/files/papers/Iida06IAS.pdf"
+      ]
+    },
+    {
+      "id": "publication-311",
+      "year": "2006",
+      "category": "Reviewed Conference Papers",
+      "citation": "Rummel, J., Iida, F., Seyfarth, A. (2006). One-legged locomotion with a compliant passive joint, Proceedings of the 9th International Conference on Intelligent Autonomous Systems (IAS-9), 7-9 March 2006, Tokyo, Japan, Arai, T. et al. (Eds.), IOS Press, 566-573. link pdf",
+      "links": [
+        "http://books.google.com/books?id=Z6u1un0AwVEC&printsec=frontcover&dq=Intelligent+Autonomous+Systems+-+9&source=bl&ots=uvpSMNDSLA&sig=yFSEnyuyxp6IdhOzWUzdHsXyNlc&hl=en&ei=Q2J-TMPxK5GLswaVtf2VCQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CB4Q6AEwAA#v=onepage&q&f=false",
+        "http://www.robot.t.u-tokyo.ac.jp/IAS-9/",
+        "http://www.iospress.nl/loadtop/load.php?isbn=9781586035952",
+        "http://books.google.com/books?id=Z6u1un0AwVEC&pg=PA566&lpg=PA566&dq=One-legged+locomotion+with+a+compliant+passive+joint&source=bl&ots=uvpSMNDYNw&sig=39k0AF-f2wt467XSPMhM2woqtC0&hl=en&ei=qmR-TPfcLNGLswbtzYGWCQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CBgQ6AEwAQ#v=onepage&q=One-legged%20locomotion%20with%20a%20compliant%20passive%20joint&f=false",
+        "http://people.csail.mit.edu/iida/papers/Rummel06IAS9.pdf"
+      ]
+    },
+    {
+      "id": "publication-312",
+      "year": "2005",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F. (2005). Cheap design approach to adaptive behavior: Walking and sensing through body dynamics, Proceedings of the 3rd International Symposium on Adaptive Motion of Animals and Machines (AMAM 2005), 25-30 September 2005, Ilmenau, Germany. pdf",
+      "links": [
+        "http://www.tu-ilmenau.de/amam/",
+        "http://www.tu-ilmenau.de/amam/",
+        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.6495&rep=rep1&type=pdf"
+      ]
+    },
+    {
+      "id": "publication-313",
+      "year": "2005",
+      "category": "Reviewed Conference Papers",
+      "citation": "Hamburger, V., Berns, K., Iida, F. (2005). Standing up with motor primitives, Proceedings of the 8th International Conference on Climbing and Walking Robots (CLAWAR 2005), 383-390. link pdf",
+      "links": [
+        "http://www.springerlink.com/content/978-3-540-26413-2/",
+        "http://www.clawar.org/clawar2005/",
+        "http://bks6.books.google.com/books?id=kfJlc2wP_ssC",
+        "http://www.springerlink.com/content/kw2410464lu23391/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-314",
+      "year": "2005",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Gomez, G.J., Pfeifer, R. (2005). Exploiting body dynamics for controlling a running quadruped robot, Proceedings of the 2005 IEEE International Conference on Robotics and Automation (ICRA 2005), 18-22 April 2005, Seattle, USA, 229-235. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10495",
+        "http://www.icra2005.org/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1507417"
+      ]
+    },
+    {
+      "id": "publication-315",
+      "year": "2004",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Pfeifer, R. (2004). “Cheap” rapid locomotion of a quadruped robot: Self-stabilization of bounding gait, Proceedings of the 8th International Conference on Intelligent Autonomous Systems (IAS-8), March 2004, Amsterdam, Netherlands, Groen, F. et al. (Eds.), IOS Press, 642-649. pdf",
+      "links": [
+        "http://books.google.com/books?id=IKscPz-GaxAC&pg=PR5&lpg=PR5&dq=Intelligent+Autonomous+Systems+8&source=bl&ots=Asv2PFupPl&sig=moCsz_s5scNbLUwMBRSt4ezYOrg&hl=en&ei=Esl-TICkEMGMON7RvbwJ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCUQ6AEwAw#v=onepage&q&f=false",
+        "http://www.iospress.nl/loadtop/load.php?isbn=9781586034146",
+        "http://people.csail.mit.edu/iida/papers/iida_ias8.cr.pdf"
+      ]
+    },
+    {
+      "id": "publication-316",
+      "year": "2003",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F. (2003). Exploiting friction for the locomotion of a hopping robot, Proceedings of the 2nd International Symposium on Adaptive Motion of Animals and Machines (AMAM 2003), 4-8 March 2003, Kyoto, Japan. link pdf",
+      "links": [
+        "http://www.springer.com/computer/ai/book/978-4-431-24164-5",
+        "http://robotics.mech.kit.ac.jp/kimura/amam/amam2003/amam2003.html",
+        "http://robotics.mech.kit.ac.jp/kimura/amam/amam2003/ABSTRACTS/toc.html",
+        "http://robotics.mech.kit.ac.jp/kimura/amam/amam2003/PAPERS/E12-iida.pdf"
+      ]
+    },
+    {
+      "id": "publication-317",
+      "year": "2002",
+      "category": "Reviewed Conference Papers",
+      "citation": "Frutiger, D.R., Bongard, J.C., Iida, F. (2002). Iterative product engineering: Evolutionary robot design, Proceedings of the 5th International Conference on Climbing and Walking Robots (CLAWAR 2002), 25-27 September 2002, Paris, France, 619-626. pdf",
+      "links": [
+        "http://bks6.books.google.com/books?id=RgijWINs7V8C",
+        "http://www.clawar.org/conferences.html",
+        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.1205&rep=rep1&type=pdf"
+      ]
+    },
+    {
+      "id": "publication-318",
+      "year": "2002",
+      "category": "Reviewed Conference Papers",
+      "citation": "Paul, C., Dravid, R., Iida F. (2002). Control of lateral bounding for a pendulum driven hopping robot, Proceedings of the 5th International Conference on Climbing and Waling Robots (CLAWAR 2002), 25-27 September 2002, Paris, France, 333-340. link pdf",
+      "links": [
+        "http://bks6.books.google.com/books?id=RgijWINs7V8C",
+        "http://www.clawar.org/conferences.html",
+        "http://books.google.com/books?hl=en&lr=&id=RgijWINs7V8C&oi=fnd&pg=PA333&dq=Control+of+lateral+bounding+for+a+pendulum+driven+hopping+robot&ots=qD0i8pJH_j&sig=HU6wU1lfpg6iBvFPgAPbVcraglM#v=onepage&q=Control%20of%20lateral%20bounding%20for%20a%20pendulum%20driven%20hopping%20robot&f=false",
+        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.6.5262&rep=rep1&type=pdf"
+      ]
+    },
+    {
+      "id": "publication-319",
+      "year": "2002",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Dravid, R., Paul C. (2002). Design and control of a pendulum driven hopping robot, Proceedings of the 2002 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2002), 30 September-4 October 2002, EPFL, Switzerland, 2141-2146. pdf",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8071",
+        "http://www.iros02.ethz.ch/",
+        "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1041584"
+      ]
+    },
+    {
+      "id": "publication-320",
+      "year": "2002",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F. (2002). Biologically inspired visual odometer for navigation of a flying robot, Proceedings of the 7th International Conference on Intelligent Autonomous Systems (IAS-7), 25-27 March 2002, Marina del Rey, USA, Gini, M. et al. (Eds.), IOS Press, 142-149. link<a target=”_blank” href=”http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.7798&rep=rep1&type=pdf”>pdf</a&gt;",
+      "links": [
+        "http://books.google.com/books?id=39pdmU7v0sUC&printsec=frontcover",
+        "http://ias7.cs.umn.edu/",
+        "http://www.iospress.nl/loadtop/load.php?isbn=9781586032395",
+        "http://www.iospress.nl/loadtop/load.php?isbn=9781586032395",
+        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.7798&rep=rep1&type=pdf”>pdf</a&gt"
+      ]
+    },
+    {
+      "id": "publication-321",
+      "year": "2001",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F. (2001). Goal-directed navigation of an autonomous flying robot using biologically inspired cheap vision, Proceedings of the 32nd <a target=”_blank” href=”http://www.ifr.org/events/isr/”>International Symposium on Robotics (ISR 2001), 19-21 April 2001, Seoul, South Korea, 1404-1409. pdf",
+      "links": [
+        "http://www.ifr.org/events/isr/”>International",
+        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.1549&rep=rep1&type=pdf"
+      ]
+    },
+    {
+      "id": "publication-322",
+      "year": "2000",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Lambrinos, D. (2000). Navigation in an autonomous flying robot by using a biologically inspired visual odometer, Sensor Fusion and Decentralized Control in Robotic System III, Photonics East, Proceedings of SPIE, 4196: 86-97. abstract",
+      "links": [
+        "http://spie.org/x648.html?product_id=390783",
+        "http://spie.org/x648.html?product_id=403708"
+      ]
+    },
+    {
+      "id": "publication-323",
+      "year": "1999",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Ayai, H., Hara, F. (1999). Behavior learning of face robot using human natural instruction, Proceedings of the 8th IEEE International Workshop on Robot and Human Communication (ROMAN 1999), 27-29 September 1999, 171-176. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7227",
+        "http://www.ro-man.org/ro-man99/index.html",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=900335"
+      ]
+    },
+    {
+      "id": "publication-324",
+      "year": "1998",
+      "category": "Reviewed Conference Papers",
+      "citation": "Iida, F., Tabata, M., Hara, F. (1998). Generating personality character in a face robot through interaction with human, Proceedings of the 7th IEEE International Workshop on Robot and Human Communication (ROMAN 1998), 481-486. pdf",
+      "links": [
+        "http://ro-man.org/",
+        "http://people.csail.mit.edu/iida/papers/Roman98.pdf"
+      ]
+    },
+    {
+      "id": "publication-325",
+      "year": "2014",
+      "category": "Workshop Contributions and Others",
+      "citation": "Nurzaman, S. G., Iida, F., Margheri, L., and Laschi C. (2014). News and Views: Soft robotics on the move: Scientific networks, activities, and future challenges. Soft Robotics, 1(2): 154-158. abstract",
+      "links": [
+        "http://online.liebertpub.com/doi/abs/10.1089/soro.2014.0012"
+      ]
+    },
+    {
+      "id": "publication-326",
+      "year": "2013",
+      "category": "Workshop Contributions and Others",
+      "citation": "Nurzaman, S. G., Iida. F., Laschi, C., Ishiguro, A., and Wood, R. (2013). Soft Robotics [TC Spotlight]. IEEE Robotics and Automation Magazine, 20(3): 24-25 & 95. abstract",
+      "links": [
+        "http://www.birl.ethz.ch/research/publications/ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6595683"
+      ]
+    },
+    {
+      "id": "publication-327",
+      "year": "2013",
+      "category": "Workshop Contributions and Others",
+      "citation": "Yu, X., Assaf, D., Wang, L., and Iida, F. (2013). Robotics education: A case study in soft-bodied locomotion. Proceedings of the 2013 IEEE Workshop on Advanced Robotics and its Social Impacts (ARSO 2013)ÃƒƒÃ‚Â¯Ãƒ‚Ã‚Â¼Œ 7-9 November 2013, Tokyo, Japan, 194-199. abstract",
+      "links": [
+        "http://www.arso2013.org/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6705528"
+      ]
+    },
+    {
+      "id": "publication-328",
+      "year": "2013",
+      "category": "Workshop Contributions and Others",
+      "citation": "Yu, X. and Iida, F. (2013). Maximizing the energy efficiency of the robot hopping. Presented at the 6th International Symposium on Adaptive Motion of Animals and Machines (AMAM 2013), 11-14 March 2013, Darmstadt, Germany.",
+      "links": [
+        "http://www.amam2013.org/"
+      ]
+    },
+    {
+      "id": "publication-329",
+      "year": "2013",
+      "category": "Workshop Contributions and Others",
+      "citation": "Marques, H.G., Maufroy, C., Lenz, A., Dalamagkidis, K., and the MYOROBOTICS Project Team (2013). MYOROBOTICS: A modular toolkit for legged locomotion research using musculoskeletal designs. Presented at the 6th International Symposium on Adaptive Motion of Animals and Machines (AMAM 2013), 11-14 March 2013, Darmstadt, Germany.",
+      "links": [
+        "http://www.amam2013.org/"
+      ]
+    },
+    {
+      "id": "publication-330",
+      "year": "2012",
+      "category": "Workshop Contributions and Others",
+      "citation": "Wang, L. and Iida, F. (2012). The extended phenotype in robots: A new perspective and challenges. Presented atIROS 2012 Workshop on Smart Materials and Alternative Technologies for Bio-Inspired Robots and Systems, 11 October 2012, Vilamoura, Portugal. pdf",
+      "links": [
+        "http://www.iros2012.org/site/",
+        "http://www.disam.upm.es/%7EATBio2012/ATBio.html",
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/WangIida_IROS2012ATBioWorkshop.pdf"
+      ]
+    },
+    {
+      "id": "publication-331",
+      "year": "2012",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F., Hosoda, K., Pfeifer, R., Kuniyoshi, Y. (2012). Special Issue on Soft robotics, Editorial of Special Issuein Journal of Advance Robotics 26(7): 689-691.",
+      "links": []
+    },
+    {
+      "id": "publication-332",
+      "year": "2012",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F., Reis, M., Maheshwari, N., Yu, X., and Jafari, A. (2012). Towards efficient, fast, and versatile running robots based on free vibration. Proceedingsof Dynamic Walking 2012, 21-24 May 2012, Pensacola Beach, Florida, USA. pdf",
+      "links": [
+        "http://dynamicwalking.org/dw2012/?q=proceedings",
+        "http://dynamicwalking.org/dw2010",
+        "http://www.ihmc.us/dwc2012files/Iida.pdf"
+      ]
+    },
+    {
+      "id": "publication-333",
+      "year": "2012",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F., Reis, M., Maheshwari, N., Gunura, K. and Hauser, S. (2012). Legged robot locomotion based on free vibration. Proceedings of the 12th International Workshop on Advanced Motion Control (AMC 2012), 25-27 March 2012, Sarajevo, Bosnia and Herzegovina. abstract",
+      "links": [
+        "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6189859",
+        "http://web.sabanciuniv.edu/amc12/",
+        "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6197125"
+      ]
+    },
+    {
+      "id": "publication-334",
+      "year": "2011",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2011). Book review: Flying insects and robots (Floreano, D., et al., eds). Artificial Life, 18(1): 125-127. abstract",
+      "links": [
+        "http://www.mitpressjournals.org/doi/abs/10.1162/artl_r_00053"
+      ]
+    },
+    {
+      "id": "publication-335",
+      "year": "2011",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2011). Towards autonomous robotic growth. AMD Newsletter, 8(2): 6. pdf",
+      "links": [
+        "http://www.cse.msu.edu/amdtc/amdnl/AMDNL-V8-N2.pdf"
+      ]
+    },
+    {
+      "id": "publication-336",
+      "year": "2011",
+      "category": "Workshop Contributions and Others",
+      "citation": "Hoffmann, M., Schmidt, N., Nakajima, K., Iida, F., and Pfeifer, R. (2011). Perception, motor learning, and speed adaptation exploiting body dynamics: Case studies in a quadruped robot. Proceedings of the 5th International Symposium on Adaptive Motion of Animals and Machines (AMAM 2011), 11-14 October 2011, Hyogo, Japan, 39-40.",
+      "links": [
+        "http://adaptivemotion.org/AMAM2011/proceedings.html",
+        "http://www-dsc.mech.eng.osaka-u.ac.jp/AMAM2011/"
+      ]
+    },
+    {
+      "id": "publication-337",
+      "year": "2011",
+      "category": "Workshop Contributions and Others",
+      "citation": "Leach, D., Maheshwari, N., Guenther, F. and Iida, F. (2011). Variable impedance actuation to increase the behavioural diversity of legged robots. Proceedings of the 5th International Symposium on Adaptive Motion of Animals and Machines (AMAM 2011), 11-14 October 2011, Hyogo, Japan, 21-22.",
+      "links": [
+        "http://adaptivemotion.org/AMAM2011/proceedings.html",
+        "http://www-dsc.mech.eng.osaka-u.ac.jp/AMAM2011/"
+      ]
+    },
+    {
+      "id": "publication-338",
+      "year": "2011",
+      "category": "Workshop Contributions and Others",
+      "citation": "Reis, M., Maheshwari, N., Iida, F. (2011). Self-organization of robot walking and hopping based on free vibration. Proceedings of the 2nd International Conference on Morphological Computation (ICMC 2011), 12-14 September 2011, Venice, Italy.",
+      "links": [
+        "http://www.eucognition.org/eucog-wiki/2nd_International_Conference_on_Morphological_Computation_ICMC2011"
+      ]
+    },
+    {
+      "id": "publication-339",
+      "year": "2011",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. and Laschi, C. (2011). Soft robotics: Challenges and perspectives. Proceedings of the European Future Technologies Conference and Exhibition (fet 2011), 4-6 May 2011, Budapest, Hungary. abstract",
+      "links": [
+        "http://www.sciencedirect.com/science/journal/18770509",
+        "http://www.fet11.eu/",
+        "http://www.sciencedirect.com/science/article/pii/S1877050911006958"
+      ]
+    },
+    {
+      "id": "publication-340",
+      "year": "2010",
+      "category": "Workshop Contributions and Others",
+      "citation": "Maheshwari, N., Guether, F., Gunura, K., Wang, L., and Iida, F. (2010). Motor control with discrete full-range dynamics. Presented at Dynamic Walking 2010, 8-11 July 2010, MIT, USA. pdf",
+      "links": [
+        "http://dynamicwalking.org/dw2010/node/5",
+        "http://dynamicwalking.org/dw2010",
+        "http://www.birl.ethz.ch/people/nandan/DW_MIT_2010.pdf"
+      ]
+    },
+    {
+      "id": "publication-341",
+      "year": "2010",
+      "category": "Workshop Contributions and Others",
+      "citation": "Wang, L., Maheshwari, N., Gunura, K., and Iida, F. (2010). On the motor learning of ”fully dynamic systems”. Proceedings of the 4th International Conference on Cognitive Systems (CogSys 2010), 27-28 January 2010, Zurich, Switzerland, 142. pdf",
+      "links": [
+        "http://www.cogsys2010.ethz.ch/proceedings.html",
+        "http://www.cogsys2010.ethz.ch/",
+        "http://www.cogsys2010.ethz.ch/doc/cogsys2010_proceedings/cogsys2010_0142.pdf"
+      ]
+    },
+    {
+      "id": "publication-342",
+      "year": "2010",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2010). Biologically inspired motor control for underactuated robots: Trends and challenges. Proceedings of the 7th International Workshop on Robot Motion and Control (RoMoCo? 2009), 1-3 June 2009, Czerniejewo, Poland, 145-154. abstract",
+      "links": [
+        "http://www.springer.com/engineering/robotics/book/978-1-84882-984-8",
+        "http://divf.eng.cam.ac.uk/birl/bin/edit/Main/RoMoCo?topicparent=Main.Publications",
+        "http://www.springerlink.com/content/534851wjv2813426/fulltext.pdf"
+      ]
+    },
+    {
+      "id": "publication-343",
+      "year": "2007",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2007). Book review: Autonomous robots (From biological inspiration to implementation and control), Bekey, G. A.. Artificial Life, 13(4): 419-421. abstract",
+      "links": [
+        "http://www.mitpressjournals.org/doi/abs/10.1162/artl.2007.13.4.419"
+      ]
+    },
+    {
+      "id": "publication-344",
+      "year": "2007",
+      "category": "Workshop Contributions and Others",
+      "citation": "Schmitz, A., Gomez, G. J., Iida, F., and Pfeifer, R. (2007). Adaptive control of dynamic legged locomotion. Presented at ICRA 2007 Workshop on Concept Learning in Embodied Agents, 10 April 2007, Rome, Italy. abstract",
+      "links": [
+        "http://www.researchgate.net/publication/228964633_Adaptive_control_of_dynamic_legged_locomotion"
+      ]
+    },
+    {
+      "id": "publication-345",
+      "year": "2007",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2007). Morphological computation in robot behavior control. Proceedings of the International Conference on Morphological Computation (ICMC 2007), 26-28 March 2007, Venice, Italy.",
+      "links": [
+        "http://www.istpace.org/Web_Final_Report/scientific_meetings_at_eclt/conferences/internation_conference_on_m.html"
+      ]
+    },
+    {
+      "id": "publication-346",
+      "year": "2007",
+      "category": "Workshop Contributions and Others",
+      "citation": "Schmitz, A., Gomez, G. J., Iida, F. and Pfeifer, R. (2007). On the robustness of simple speed control for a quadruped robot. Proceedings of the International Conference on Morphological Computation (ICMC 2007), 26-28 March 2007, Venice, Italy.",
+      "links": [
+        "http://www.istpace.org/Web_Final_Report/scientific_meetings_at_eclt/conferences/internation_conference_on_m.html"
+      ]
+    },
+    {
+      "id": "publication-347",
+      "year": "2006",
+      "category": "Workshop Contributions and Others",
+      "citation": "Seyfarth, A., Iida, F., Rummel, J. and Geyer, H. (2006). Leg design for stable walking and running. Presented at the 5th World Congress of Biomechanics, 29 July – 4 August 2006, Munich, Germany, Journal of Biomechanics, 39: 114. pdf",
+      "links": [
+        "http://www.wcb2006.org/",
+        "http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6T82-4KR88PB-KG-1&_cdi=5074&_user=791130&_pii=S0021929006833555&_orig=search&_coverDate=12/31/2006&_sk=999609999.8998&view=c&wchp=dGLzVlz-zSkWA&md5=85cac4eed7fc7396d81fde11bb420244&ie=/sdarticle.pdf"
+      ]
+    },
+    {
+      "id": "publication-348",
+      "year": "2006",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2006). From locomotion to cognition: Cheap design approach to adaptive behavior. Proceedings of the 50th Anniversary Summit of Artificial Intelligence, 9-14 July 2006, Monte Verita, Switzerland. pdf",
+      "links": [
+        "http://www.csis.ul.ie/compint/ai50Proceedings-web.pdf",
+        "http://www.csf.ethz.ch/conferences/archive/#2006",
+        "http://www.csis.ul.ie/compint/ai50Proceedings-web.pdf"
+      ]
+    },
+    {
+      "id": "publication-349",
+      "year": "2006",
+      "category": "Workshop Contributions and Others",
+      "citation": "Rummel, J., Seyfarth, A., Iida, F., and Dittrich, E. (2006). Adaptive mechanics. Proceedings of the 50th Anniversary Summit of Artificial Intelligence, 9-14 July 2006, Monte Verita, Switzerland. pdf",
+      "links": [
+        "http://www.csis.ul.ie/compint/ai50Proceedings-web.pdf",
+        "http://www.csf.ethz.ch/conferences/archive/#2006",
+        "http://www.csis.ul.ie/compint/ai50Proceedings-web.pdf"
+      ]
+    },
+    {
+      "id": "publication-350",
+      "year": "2006",
+      "category": "Workshop Contributions and Others",
+      "citation": "Schmitz, A. and Iida, F. (2006). Self-Organization of complexity in embodied agents. Proceedings of the 50th Anniversary Summit of Artificial Intelligence, 9-14 July 2006, Monte Verita, Switzerland. pdf",
+      "links": [
+        "http://www.csis.ul.ie/compint/ai50Proceedings-web.pdf",
+        "http://www.csf.ethz.ch/conferences/archive/#2006",
+        "http://www.csis.ul.ie/compint/ai50Proceedings-web.pdf"
+      ]
+    },
+    {
+      "id": "publication-351",
+      "year": "2005",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. and Pfeifer, R. (2005). Situated categorization through body dynamics. Presented at IROS 2005 Workshop on Morphology, Control and Passive Dynamics, 2 August 2005, Edmonton, Canada.",
+      "links": [
+        "http://www.ee.cuhk.edu.hk/~qhmeng/IROS2005/tw.html"
+      ]
+    },
+    {
+      "id": "publication-352",
+      "year": "2005",
+      "category": "Workshop Contributions and Others",
+      "citation": "Ziegler, M., Iida, F., and Pfeifer, R. (2005). “Cheap” underwater locomotion: Morphological properties and behavioral diversity. Presented at IROS 2005 Workshop on Morphology, Control and Passive Dynamics, 2 August 2005, Edmonton, Canada. pdf",
+      "links": [
+        "http://www.ee.cuhk.edu.hk/~qhmeng/IROS2005/tw.html",
+        "http://people.csail.mit.edu/iida/papers/ziegler_iros05ws_cr.pdf"
+      ]
+    },
+    {
+      "id": "publication-353",
+      "year": "2005",
+      "category": "Workshop Contributions and Others",
+      "citation": "Rummel, J., Seyfarth, A., and Iida, F. (2005). Stable locomotion of feedforward controlled one-legged robot. Proceedings of the XXth Congress of the International Society of Biomechanics (combined with 2005 Annual Meeting of the American Society of Biomechanics), 31 July – 5 August 2005, Cleveland, USA, 34. pdf",
+      "links": [
+        "http://www.asbweb.org/conferences/2005/2005.html",
+        "http://www.asbweb.org/conferences/2005/pdf/0034.pdf"
+      ]
+    },
+    {
+      "id": "publication-354",
+      "year": "2002",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2002). Dynamic locomotion of a biologically inspired quadruped robot. Proceedings of the International Workshop on Embodied Artificial Intelligence, 7 October 2002, Zurich, Switzerland.",
+      "links": []
+    },
+    {
+      "id": "publication-355",
+      "year": "2002",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. and Lambrinos, D. (2002). Navigation in an autonomous flying robot by using a biologically inspired visual odometer. Proceedings of the International Workshop on Embodied Artificial Intelligence, 7 October 2002, Zurich, Switzerland.",
+      "links": []
+    },
+    {
+      "id": "publication-356",
+      "year": "2002",
+      "category": "Workshop Contributions and Others",
+      "citation": "Dravid, R., Paul, C., and Iida, F. (2002). Stumpy: The inverted pendulum driven hopping robot. Proceedings of the International Workshop on Embodied Artificial Intelligence, 7 October 2002, Zurich, Switzerland.",
+      "links": []
+    },
+    {
+      "id": "publication-357",
+      "year": "2002",
+      "category": "Workshop Contributions and Others",
+      "citation": "Frutiger, D. R., Bongard, J. C., and Iida, F. (2002). Iterative product engineering: Evolutionary robot design. Proceedings of the International Workshop on Embodied Artificial Intelligence, 7 October 2002, Zurich, Switzerland. ps",
+      "links": [
+        "http://www.cs.uvm.edu/~jbongard/papers/FrutigerClawar2002.ps.gz"
+      ]
+    },
+    {
+      "id": "publication-358",
+      "year": "2002",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. (2002). Dynamic locomotion of a biologically inspired quadruped robot. Presented at SAB 2002 Workshop on Robotics as Theoretical Biology, 10 August 2002, Edinburgh, UK.",
+      "links": [
+        "http://www.abrg.group.shef.ac.uk/projects/sab02/"
+      ]
+    },
+    {
+      "id": "publication-359",
+      "year": "2000",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. and Hara, F. (2000). Behavior learning of face robot based on the characteristics of human instruction. Journal of the Robotics Society of Japan, 18(6): 839-846. abstract (in Japanese)",
+      "links": [
+        "https://www.jstage.jst.go.jp/article/jrsj1983/18/6/18_6_839/_article/-char/ja/"
+      ]
+    },
+    {
+      "id": "publication-360",
+      "year": "",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. and Hara, F. Behavior learning of face robot based on the characteristics of human instruction. Presented at Symposium on Robotics and Mechatronics. (in Japanese)",
+      "links": []
+    },
+    {
+      "id": "publication-361",
+      "year": "1999",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F., Hara, F., and Ayai, H. (1999). Face robot behavior learning based on the characteristics of human instruction. Proceedings of the 4th Robotics Symposia, 30-31 March 1999, Sendai, Japan, 38-43. pdf (in Japanese)",
+      "links": [
+        "http://people.csail.mit.edu/iida/papers/Rsympo.pdf"
+      ]
+    },
+    {
+      "id": "publication-362",
+      "year": "1999",
+      "category": "Workshop Contributions and Others",
+      "citation": "R. Pfeifer, C. Scheier (Japanese edition of “Understanding Intelligence”, MIT Press 1999). amazon.co.jp",
+      "links": [
+        "http://www.amazon.co.jp/%E7%9F%A5%E3%81%AE%E5%89%B5%E6%88%90%E2%80%95%E8%BA%AB%E4%BD%93%E6%80%A7%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%A6%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85-%E3%83%AD%E3%83%AB%E3%83%95-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%95%E3%82%A1%E3%83%BC/dp/4320120329"
+      ]
+    },
+    {
+      "id": "publication-363",
+      "year": "1998",
+      "category": "Workshop Contributions and Others",
+      "citation": "Iida, F. and Hara, F. (1998). Robot behavior learning based on the characteristics of human instruction. Proceedings of the 16th Annual Conference of the Robotics Society of Japan, 18-20 September 1998, Hokkaido University, Japan, 655-656. (in Japanese)",
+      "links": [
+        "http://www.rsj.or.jp/annual_conf/list"
+      ]
+    },
+    {
+      "id": "publication-364",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "Kim, Y. (2014). Goal-directed multi-modal locomotion of curved beam hopping robot, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/YongjaeMasterThesisETH2014.pdf"
+      ]
+    },
+    {
+      "id": "publication-365",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "Wani, U. (2014). Discrimination of soft robotic motion patterns through design and implementation of morphologically flexible sensors, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/umar_thesis.pdf"
+      ]
+    },
+    {
+      "id": "publication-366",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "Hauser, S. (2014). From spontaneous motor activity towards walking, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/HauserS2014.pdf"
+      ]
+    },
+    {
+      "id": "publication-367",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "Veiga, M. (2014). Evolutionary algorithm for robotic body extension, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/ST_Maria_Veiga_Final.pdf"
+      ]
+    },
+    {
+      "id": "publication-368",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "von Atzigen, M. (2014). TPA based 3D printing, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_Marco_von_Atzigen_Final.pdf"
+      ]
+    },
+    {
+      "id": "publication-369",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "Luethi, G. (2014). Autonomous construction of 3D structures, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_Gillian_Final.pdf"
+      ]
+    },
+    {
+      "id": "publication-370",
+      "year": "2014",
+      "category": "Thesis / Project Reports",
+      "citation": "Ovinnikov, I. (2014). Trajectory control optimization of muskuloskeletal robot simulation, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/Ivan_Thesis.pdf"
+      ]
+    },
+    {
+      "id": "publication-371",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Frey, S. (2013). Design optimization in Myode, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/Frey2014.pdf"
+      ]
+    },
+    {
+      "id": "publication-372",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Altwegg, S. (2013). Quantification of preview control walking pattern generation by center of mass tracking, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/MT_SebastianAltwegg_2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-373",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Heim, S. (2013). Dynamics and control for efficient hopping, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/SemesterThesis_SteveHeim.pdf"
+      ]
+    },
+    {
+      "id": "publication-374",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Cavolina, G. (2013). Design optimization of robotic body extension with passive grippers, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_CavolinaG2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-375",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Giardina, F. (2013). Development and Analysis of a Self-Stable One-Legged Hopping Robot, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/FGiardina2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-376",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Rich, S. (2013). Asymmetrical body shape: inducing locomotion in a simply activated amoeboid robot , internship project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/SRich2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-377",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Lee, M. (2013). Design and simulation of a tendon-driven hot melt adhesive “hand” robot, internship project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/melissa_lee.pdf"
+      ]
+    },
+    {
+      "id": "publication-378",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Novkovic, T. (2013). Extension of an evolutionary design algorithm to complex tasks, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/NovcovicT2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-379",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Moser, S. (2013). Development of a variable knee joint, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland.",
+      "links": []
+    },
+    {
+      "id": "publication-380",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Meyer, R. (2013). Improved extruder for a hot glue 3D printer, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/RaphaelMeyerBScThesis2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-381",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Shu, Y. (2013). Glass fiber reinforced plastic: New elastic spring material used in compliant legs for scalable energy efficient robots, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/YafengShu2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-382",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Ackermann, M. (2013). Self-organisation of Reflexes using Bio-inspired Actuator and Sensor Models, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/MichaelAckermannBSthesis2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-383",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Peruzzi, C. (2013). Model based control of a bioinspired thread building spider robot, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/CPeruzzi2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-384",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Keller, H. (2013). PC-104 real-time controller for a curved-beam hopping robot, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/HannesKellerBS2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-385",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Bolliger, C. (2013). Reflex-based torso stabilization, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/ChristophBolliger2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-386",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Wani, U. (2013). Synthesizing a dynamic model for continuum robot arms using flexure sensors, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://edit.ethz.ch/birl/research/publication/projreport/UmarWani2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-387",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Bharadwaj, A. (2013). From spontaneous motor activity to hopping: A developmental scheme, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MT_ArjunBharadwaj"
+      ]
+    },
+    {
+      "id": "publication-388",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Voigt, C. (2013). Development of an optimization tool for Myode. BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_CordtVoigt.pdf"
+      ]
+    },
+    {
+      "id": "publication-389",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Reusser, D. (2013). How to make a spider web with the Firefly robotic arm, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/Dorothea_Reusser_Bachelor_Thesis"
+      ]
+    },
+    {
+      "id": "publication-390",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Seitz, J. (2013). Autonomous design of modular robot extensions using an evolutionary algorithm, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/JeremiasSeitzBScThesis2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-391",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Wild, M. (2013). Self-diagnosis in Myorobotics: The implementation of a self-diagnosis plugin for the Caliper robotics simulation software, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_MatWild2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-392",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Jovic, M. (2013). Redesign of a bio-inspired thread building spider robot, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/MilanJovic2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-393",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Mathis, B. (2013). Efficient locomotion of a segmented beam hopper based on free vibration, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "https://edit.ethz.ch/birl/research/publication/thesis/BenediktMathisFS2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-394",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Bernet, R. (2013). 2D modeling of a passive compliant gripper, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BernetR2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-395",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Foehr, A. (2013). Dynamics of a free vibration based robot, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/AndreFoehr2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-396",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Garbani-Marcantini, L. (2013). Efficient Running on Variable Stiffness Ground, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/Garbani-MarcantiniLorenzo2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-397",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Lataniotis, C. (2013). CPG-inspired control of curved beam hoppers, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/ChristosLataniotisMScThesis.pdf"
+      ]
+    },
+    {
+      "id": "publication-398",
+      "year": "2013",
+      "category": "Thesis / Project Reports",
+      "citation": "Guenther, F. (2013). Preloaded Hopping with a Linear Multi Mode Actuator, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/FabianGuentherMScThesis2013.pdf"
+      ]
+    },
+    {
+      "id": "publication-399",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Meier, T. (2012). Automatic Disconnection of HMA-Bondings on a Modular Reconfigurable Robot, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_Tobias_Meier.pdf"
+      ]
+    },
+    {
+      "id": "publication-400",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Widmer, A. (2012). Design of Wireless Modules and Construction of a Mobile Robot, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_Andre_Widmer.pdf"
+      ]
+    },
+    {
+      "id": "publication-401",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Toxiri, S. (2012). Self-organization of spinal force fields, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": []
+    },
+    {
+      "id": "publication-402",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Naef, D. (2012). Shape optimization of a curved beam hopping robot, MSc thesis, Institute of Neuroinformatics, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/DominikNaef2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-403",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Voelk, C. (2012). Self-organization of spinal reflexes in biologically motivated simulation framework, MSc thesis, Institute of Neuroinformatics, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/VoelkC2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-404",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "WÃƒƒƒÃƒ‚Ã‚Â¤lchli, O. (2012). Development of a mini hopping Robot, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/Bachelor_Thesis_Oliver_Walchli.pdf"
+      ]
+    },
+    {
+      "id": "publication-405",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Graber, L. (2012). Self-contained high payload robots for climbing on multiple vertical environments, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/GraberL2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-406",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "NeuschÃƒƒƒÃƒ‚Ã‚Â¤fer, F. (2012). Design of a glue supplier with internal melt reservoir, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/FNeuschaefer2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-407",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Ioannides, A. (2012). Robot thumb kinematic model optimisation, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/AndreasIoannides2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-408",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Eugster, D. (2012). High-speed motion tracking for robot control, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/DEugster2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-409",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Berkenkamp, F. (2012). Tower building with HMAs and computer vision feedback, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BT_Felix_Berkenkamp.pdf"
+      ]
+    },
+    {
+      "id": "publication-410",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Frey, K. (2012). Design of an underactuated underwater vehicle using counter rotating propellers, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MasterThesis_FREYKevin.pdf"
+      ]
+    },
+    {
+      "id": "publication-411",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Lataniotis, C. (2012). Optimizing dynamic motions of a two-link pendulum, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/LataniotisC.pdf"
+      ]
+    },
+    {
+      "id": "publication-412",
+      "year": "2012",
+      "category": "Thesis / Project Reports",
+      "citation": "Thandiackal, R. (2012). Exploiting passive dynamics in robot throwing task, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/Thandiackal2012.pdf"
+      ]
+    },
+    {
+      "id": "publication-413",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Koenig, S. (2011). Self-organisation of reflexes in agonist-antagonist and synergistic actuator configurations, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/KoenigS2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-414",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Baumann, M. (2011). System identification and control optimization of the single leg hopping robot ETHOP, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/bin/view/Main/ETHOP",
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/BaumannM2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-415",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Morales, M. (2011). Influence of tendon-pulley friction on an index finger model, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MoralesM2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-416",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Brandle, C. (2011). Double pendulum robotic arm with toothed clutches, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/Brandle_DP.pdf"
+      ]
+    },
+    {
+      "id": "publication-417",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Bocanegra, J.F. (2011). High torque, high impact braking system by using Hot Melt Adhesive, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/JuanjoFernandezMScThesis.pdf"
+      ]
+    },
+    {
+      "id": "publication-418",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Anastasiades, B. (2011). Glass-reinforced plastic springs for linear actuators, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/AnastasiadesGRP2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-419",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Schluchter, C. (2011). Spontaneous evolution of modularity in neural networks for robot locomotion, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MScThesisSchluchter2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-420",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Vaish, R. (2011). Real world reinforcement learning, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/VaishR2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-421",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Imtiaz, F. (2011). Emergence of reflexive behaviour from single muscle twitches, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/ImtiasF2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-422",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Zweig, A. (2011). Controlling a crane arm with EMG sensors, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/Bachelor_Thesis_-_Amos.pdf"
+      ]
+    },
+    {
+      "id": "publication-423",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Neuschaefer, F. & Bernet, R. (2011). New design of a climbing robot based on Hot Melt Adhesion (HMA), BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/FabianNRemoB2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-424",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Hauser, S. (2011). Resonance frequency of hopping robots, BSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/SimonHauser2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-425",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Marti, M. (2011). Design of HMA supply mechanism on a multi-degrees of freedom platform, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MartiM2011"
+      ]
+    },
+    {
+      "id": "publication-426",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Frey, K. (2011). Application of a Q-learning algorithm in real world environment for energy self-sufficiency (Mr. Ess. is Q-learning), master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/FreyK2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-427",
+      "year": "2011",
+      "category": "Thesis / Project Reports",
+      "citation": "Osswald, M. (2011). Design and control of a climbing robot based on Hot Melt Adhesion (HMA), MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/OsswaldM2011.pdf"
+      ]
+    },
+    {
+      "id": "publication-428",
+      "year": "2010",
+      "category": "Thesis / Project Reports",
+      "citation": "Montillo, C. (2010). Binding the physical and Mental Simulation dynamics, MSc thesis, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MontilloC2010.pdf"
+      ]
+    },
+    {
+      "id": "publication-429",
+      "year": "2010",
+      "category": "Thesis / Project Reports",
+      "citation": "Muller, F. (2010). Modeling and control of a Multi-Mode Linear Actuator, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/MuellerF2010"
+      ]
+    },
+    {
+      "id": "publication-430",
+      "year": "2010",
+      "category": "Thesis / Project Reports",
+      "citation": "Gunther, F. (2010). Mechanical design of a Multi-Mode Linear Actuator, master semester project report, Department of Mechanical and Process Engineering, ETH Zurich, Switzerland. pdf",
+      "links": [
+        "http://divf.eng.cam.ac.uk/birl/pub/Main/Publications/GuetherF2010.pdf"
+      ]
+    },
+    {
+      "id": "publication-431",
+      "year": "2005",
+      "category": "Thesis / Project Reports",
+      "citation": "Iida, F. (2005). Cheap design and behavioral diversity for adaptive autonomous robots, PhD thesis, Faculty of Mathematics and Science, University of Zurich, Switzerland. pdf",
+      "links": [
+        "http://people.csail.mit.edu/iida/papers/IidaDiss.pdf"
+      ]
+    }
+  ]
+}

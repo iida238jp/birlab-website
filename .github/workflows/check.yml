@@ -1,0 +1,24 @@
+name: Check bilingual website
+on:
+  pull_request:
+  push:
+    branches: ["redesign/**"]
+permissions:
+  contents: read
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Build the complete bilingual site
+        run: python3 scripts/build.py
+      - name: Validate content, routes, and language pairs
+        run: python3 scripts/validate.py
+      - name: Save a downloadable review preview
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: birl-review-preview
+          path: dist/
+          include-hidden-files: true
